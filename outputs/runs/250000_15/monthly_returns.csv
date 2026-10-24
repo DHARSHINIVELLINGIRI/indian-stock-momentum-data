@@ -1,0 +1,193 @@
+Date,Strategy,Monthly_Return_%,Monthly_Profit_Loss_INR
+2022-11-30,Strategy 1 - Top-X Buy-and-Hold,5.4086,13521.5
+2022-12-30,Strategy 1 - Top-X Buy-and-Hold,-3.7156,-9791.48
+2023-01-31,Strategy 1 - Top-X Buy-and-Hold,-6.2953,-15972.95
+2023-02-28,Strategy 1 - Top-X Buy-and-Hold,-8.9456,-21268.72
+2023-03-31,Strategy 1 - Top-X Buy-and-Hold,-2.5261,-5468.74
+2023-04-28,Strategy 1 - Top-X Buy-and-Hold,8.2308,17368.66
+2023-05-31,Strategy 1 - Top-X Buy-and-Hold,8.6043,19651.32
+2023-06-30,Strategy 1 - Top-X Buy-and-Hold,5.042,12506.11
+2023-07-31,Strategy 1 - Top-X Buy-and-Hold,5.2868,13774.65
+2023-08-31,Strategy 1 - Top-X Buy-and-Hold,6.9937,19185.19
+2023-09-29,Strategy 1 - Top-X Buy-and-Hold,-0.7645,-2243.84
+2023-10-31,Strategy 1 - Top-X Buy-and-Hold,0.7842,2284.07
+2023-11-30,Strategy 1 - Top-X Buy-and-Hold,11.7548,34505.7
+2023-12-29,Strategy 1 - Top-X Buy-and-Hold,9.9362,32595.76
+2024-01-31,Strategy 1 - Top-X Buy-and-Hold,8.2304,29682.63
+2024-02-29,Strategy 1 - Top-X Buy-and-Hold,2.6803,10461.97
+2024-03-28,Strategy 1 - Top-X Buy-and-Hold,-4.43,-17755.17
+2024-04-30,Strategy 1 - Top-X Buy-and-Hold,16.9608,64966.2
+2024-05-31,Strategy 1 - Top-X Buy-and-Hold,1.5096,6763.05
+2024-06-28,Strategy 1 - Top-X Buy-and-Hold,6.8436,31122.56
+2024-07-31,Strategy 1 - Top-X Buy-and-Hold,-0.5547,-2695.4
+2024-08-30,Strategy 1 - Top-X Buy-and-Hold,1.4228,6874.65
+2024-09-30,Strategy 1 - Top-X Buy-and-Hold,-3.3007,-16175.53
+2024-10-31,Strategy 1 - Top-X Buy-and-Hold,-7.7631,-36788.72
+2024-11-29,Strategy 1 - Top-X Buy-and-Hold,-0.4117,-1799.46
+2024-12-31,Strategy 1 - Top-X Buy-and-Hold,1.6687,7263.73
+2025-01-31,Strategy 1 - Top-X Buy-and-Hold,-8.1825,-36212.95
+2025-02-28,Strategy 1 - Top-X Buy-and-Hold,-16.6979,-67852.53
+2025-03-28,Strategy 1 - Top-X Buy-and-Hold,14.137,47854.05
+2025-04-30,Strategy 1 - Top-X Buy-and-Hold,4.4028,17010.36
+2025-05-30,Strategy 1 - Top-X Buy-and-Hold,7.7644,31319.16
+2025-06-30,Strategy 1 - Top-X Buy-and-Hold,-0.3736,-1623.83
+2025-07-31,Strategy 1 - Top-X Buy-and-Hold,-2.7767,-12024.83
+2025-08-29,Strategy 1 - Top-X Buy-and-Hold,-2.9125,-12262.57
+2025-09-30,Strategy 1 - Top-X Buy-and-Hold,3.2782,13400.41
+2025-10-31,Strategy 1 - Top-X Buy-and-Hold,0.554,2338.85
+2025-11-28,Strategy 1 - Top-X Buy-and-Hold,-2.7797,-11800.14
+2025-12-31,Strategy 1 - Top-X Buy-and-Hold,-1.9841,-8188.65
+2026-01-30,Strategy 1 - Top-X Buy-and-Hold,-5.3116,-21486.85
+2026-02-27,Strategy 1 - Top-X Buy-and-Hold,-2.0456,-7835.56
+2026-03-30,Strategy 1 - Top-X Buy-and-Hold,-12.612,-47320.62
+2026-04-30,Strategy 1 - Top-X Buy-and-Hold,24.9209,81711.2
+2026-05-29,Strategy 1 - Top-X Buy-and-Hold,0.6858,2808.95
+2026-06-30,Strategy 1 - Top-X Buy-and-Hold,-0.0268,-110.4
+2026-07-31,Strategy 1 - Top-X Buy-and-Hold,-2.1588,-8900.56
+2026-08-31,Strategy 1 - Top-X Buy-and-Hold,0.3448,1391.0
+2026-09-30,Strategy 1 - Top-X Buy-and-Hold,-1.206,-4881.84
+2026-10-22,Strategy 1 - Top-X Buy-and-Hold,-2.9621,-11845.61
+2022-11-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),4.9791,12447.8
+2022-12-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-0.4968,-1303.84
+2023-01-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-5.509,-14386.38
+2023-02-28,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-10.1734,-25103.64
+2023-03-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),4.2358,9388.9
+2023-04-28,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),11.2072,25893.34
+2023-05-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),2.9826,7663.48
+2023-06-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),3.5777,9466.63
+2023-07-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),4.5004,12334.14
+2023-08-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),3.0083,8615.79
+2023-09-29,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),2.9961,8839.02
+2023-10-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-0.6023,-1830.11
+2023-11-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),5.4799,16550.63
+2023-12-29,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),4.2381,13501.68
+2024-01-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),5.4441,18078.74
+2024-02-29,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-0.3853,-1349.12
+2024-03-28,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-2.2547,-7864.65
+2024-04-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),5.5979,19085.52
+2024-05-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-0.4887,-1759.59
+2024-06-28,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),3.8275,13712.71
+2024-07-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),3.3508,12464.26
+2024-08-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-0.3416,-1313.19
+2024-09-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),0.2001,766.54
+2024-10-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-3.37,-12937.39
+2024-11-29,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-0.0949,-351.99
+2024-12-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-0.2203,-816.31
+2025-01-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-2.6381,-9755.68
+2025-02-28,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-5.9021,-21249.94
+2025-03-28,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),3.6229,12274.01
+2025-04-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),0.7629,2678.38
+2025-05-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),4.3742,15473.43
+2025-06-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),1.5526,5732.4
+2025-07-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-1.8514,-6941.64
+2025-08-29,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-1.625,-5979.93
+2025-09-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),1.797,6505.48
+2025-10-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),1.2605,4645.32
+2025-11-28,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-1.2109,-4518.86
+2025-12-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-0.0974,-359.05
+2026-01-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-2.3222,-8552.53
+2026-02-27,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),0.377,1356.38
+2026-03-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-8.051,-29072.21
+2026-04-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),11.0124,36564.24
+2026-05-29,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),0.3462,1276.04
+2026-06-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),1.0415,3852.28
+2026-07-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),0.5448,2036.11
+2026-08-31,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),0.3405,1279.58
+2026-09-30,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-2.6253,-9898.46
+2026-10-22,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),-1.975,-7251.0
+2022-11-30,Strategy 3 - Top-X Rank-Weighted Momentum,4.1721,10430.18
+2022-12-30,Strategy 3 - Top-X Rank-Weighted Momentum,-5.0561,-13167.53
+2023-01-31,Strategy 3 - Top-X Rank-Weighted Momentum,-3.4673,-8573.25
+2023-02-28,Strategy 3 - Top-X Rank-Weighted Momentum,-10.6684,-25464.32
+2023-03-31,Strategy 3 - Top-X Rank-Weighted Momentum,4.7471,10121.96
+2023-04-28,Strategy 3 - Top-X Rank-Weighted Momentum,9.649,21550.82
+2023-05-31,Strategy 3 - Top-X Rank-Weighted Momentum,6.7587,16551.82
+2023-06-30,Strategy 3 - Top-X Rank-Weighted Momentum,20.8135,54416.85
+2023-07-31,Strategy 3 - Top-X Rank-Weighted Momentum,16.6016,52438.92
+2023-08-31,Strategy 3 - Top-X Rank-Weighted Momentum,9.9385,36604.15
+2023-09-29,Strategy 3 - Top-X Rank-Weighted Momentum,5.6344,22814.29
+2023-10-31,Strategy 3 - Top-X Rank-Weighted Momentum,2.4011,10270.05
+2023-11-30,Strategy 3 - Top-X Rank-Weighted Momentum,16.043,70267.56
+2023-12-29,Strategy 3 - Top-X Rank-Weighted Momentum,3.9833,20245.34
+2024-01-31,Strategy 3 - Top-X Rank-Weighted Momentum,16.6359,87922.08
+2024-02-29,Strategy 3 - Top-X Rank-Weighted Momentum,-2.5215,-15543.08
+2024-03-28,Strategy 3 - Top-X Rank-Weighted Momentum,-2.7365,-16443.47
+2024-04-30,Strategy 3 - Top-X Rank-Weighted Momentum,7.5162,43927.97
+2024-05-31,Strategy 3 - Top-X Rank-Weighted Momentum,0.8855,5564.36
+2024-06-28,Strategy 3 - Top-X Rank-Weighted Momentum,7.0871,44927.35
+2024-07-31,Strategy 3 - Top-X Rank-Weighted Momentum,8.2211,55809.84
+2024-08-30,Strategy 3 - Top-X Rank-Weighted Momentum,-3.6377,-26724.85
+2024-09-30,Strategy 3 - Top-X Rank-Weighted Momentum,-3.8362,-27158.51
+2024-10-31,Strategy 3 - Top-X Rank-Weighted Momentum,-8.244,-56124.03
+2024-11-29,Strategy 3 - Top-X Rank-Weighted Momentum,-2.9989,-18732.93
+2024-12-31,Strategy 3 - Top-X Rank-Weighted Momentum,4.5994,27868.93
+2025-01-31,Strategy 3 - Top-X Rank-Weighted Momentum,-13.3063,-84335.45
+2025-02-28,Strategy 3 - Top-X Rank-Weighted Momentum,-10.3173,-56689.69
+2025-03-28,Strategy 3 - Top-X Rank-Weighted Momentum,8.8967,43840.8
+2025-04-30,Strategy 3 - Top-X Rank-Weighted Momentum,-3.4772,-18659.11
+2025-05-30,Strategy 3 - Top-X Rank-Weighted Momentum,2.7925,14463.96
+2025-06-30,Strategy 3 - Top-X Rank-Weighted Momentum,4.2948,22866.54
+2025-07-31,Strategy 3 - Top-X Rank-Weighted Momentum,-0.4789,-2659.5
+2025-08-29,Strategy 3 - Top-X Rank-Weighted Momentum,0.4797,2651.08
+2025-09-30,Strategy 3 - Top-X Rank-Weighted Momentum,-0.3076,-1707.83
+2025-10-31,Strategy 3 - Top-X Rank-Weighted Momentum,2.9619,16396.2
+2025-11-28,Strategy 3 - Top-X Rank-Weighted Momentum,1.7249,9831.15
+2025-12-31,Strategy 3 - Top-X Rank-Weighted Momentum,0.6927,4016.46
+2026-01-30,Strategy 3 - Top-X Rank-Weighted Momentum,-3.8805,-22655.09
+2026-02-27,Strategy 3 - Top-X Rank-Weighted Momentum,3.6742,20618.16
+2026-03-30,Strategy 3 - Top-X Rank-Weighted Momentum,-12.4108,-72203.29
+2026-04-30,Strategy 3 - Top-X Rank-Weighted Momentum,12.6379,64399.32
+2026-05-29,Strategy 3 - Top-X Rank-Weighted Momentum,0.5687,3264.39
+2026-06-30,Strategy 3 - Top-X Rank-Weighted Momentum,-4.3381,-25041.33
+2026-07-31,Strategy 3 - Top-X Rank-Weighted Momentum,-2.3218,-12821.01
+2026-08-31,Strategy 3 - Top-X Rank-Weighted Momentum,7.6079,41035.3
+2026-09-30,Strategy 3 - Top-X Rank-Weighted Momentum,-4.8348,-28061.91
+2026-10-22,Strategy 3 - Top-X Rank-Weighted Momentum,-0.743,-4103.96
+2022-11-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,3.3333,8333.36
+2022-12-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-3.2535,-8404.93
+2023-01-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-2.3227,-5805.19
+2023-02-28,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-1.9334,-4719.88
+2023-03-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,0.0843,201.92
+2023-04-28,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,3.9134,9376.65
+2023-05-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,3.2287,8038.96
+2023-06-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,3.4125,8770.89
+2023-07-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,3.3094,8796.14
+2023-08-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-2.2107,-6070.21
+2023-09-29,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,1.8705,5022.75
+2023-10-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-2.662,-7281.74
+2023-11-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,5.2848,14071.31
+2023-12-29,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,7.8872,22110.22
+2024-01-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,0.2545,769.82
+2024-02-29,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,1.2445,3773.39
+2024-03-28,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,1.5252,4682.03
+2024-04-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,1.2553,3912.19
+2024-05-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,0.4359,1375.57
+2024-06-28,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,6.5021,20608.48
+2024-07-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,3.8395,12960.73
+2024-08-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,1.1989,4202.44
+2024-09-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,2.5971,9212.63
+2024-10-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-6.1516,-22387.87
+2024-11-29,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-0.2808,-959.13
+2024-12-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-2.0046,-6827.43
+2025-01-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-0.5558,-1855.14
+2025-02-28,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-5.5323,-18362.1
+2025-03-28,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,5.9408,18627.11
+2025-04-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,3.3357,11080.36
+2025-05-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,2.1986,7546.77
+2025-06-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,3.0723,10777.49
+2025-07-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-2.5304,-9149.5
+2025-08-29,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-1.1459,-4038.41
+2025-09-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,0.5289,1842.51
+2025-10-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,4.8861,17112.71
+2025-11-28,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,1.8586,6827.43
+2025-12-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-0.398,-1489.15
+2026-01-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-2.9054,-10827.95
+2026-02-27,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-0.5022,-1817.28
+2026-03-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-11.164,-40194.71
+2026-04-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,7.3271,23435.35
+2026-05-29,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-1.5551,-5338.27
+2026-06-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,1.5087,5098.49
+2026-07-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,2.0602,7067.21
+2026-08-31,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-0.9192,-3218.13
+2026-09-30,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,-5.9555,-20658.93
+2026-10-22,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,0.1702,555.28

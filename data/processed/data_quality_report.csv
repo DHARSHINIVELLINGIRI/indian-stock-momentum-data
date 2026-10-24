@@ -1,0 +1,23 @@
+Category,Metric,Value,Notes
+Data Ingestion,Original Raw Rows,504997,Raw rows loaded from data/ohlcv_data.csv without modifying source
+Deduplication,Exact Duplicate Rows Dropped,7612,Identical rows across all columns removed
+Deduplication,Conflicting Date-Ticker Keys Reconciled,3511,Micro-float variations resolved by arithmetic mean (max diff INR 0.001495 <= INR 0.05)
+Deduplication,Final Usable Dataset Rows,493874,"100% unique (Date, Ticker) pairs preserved in-memory"
+Universe Eligibility,Point-in-Time Eligibility Policy,Dynamic per Decision Date,No full-sample look-ahead exclusion filter applied in Stage 3
+Calendar Boundary,Final Decision Date,2026-09-30,October 2026 excluded due to incomplete month terminating on 2026-10-22
+Monthly Eligibility,Excluded Tickers on 2022-10-31,11,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2022-11-30,5,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2022-12-30,3,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2023-01-31,2,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2023-02-28,2,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2023-03-31,2,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2023-04-28,2,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-01-30,49,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-02-27,49,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-03-30,49,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-04-30,49,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-05-29,49,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-06-30,49,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-07-31,49,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-08-31,49,Insufficient history (<252 days) or missing Close price at decision date
+Monthly Eligibility,Excluded Tickers on 2026-09-30,49,Insufficient history (<252 days) or missing Close price at decision date

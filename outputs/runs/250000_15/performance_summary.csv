@@ -1,0 +1,5 @@
+Strategy,Initial_Capital,Final_Value,Total_Return_%,CAGR_%,Volatility_%,Sharpe_Ratio,Sortino_Ratio,Max_Drawdown_%,Peak_Date,Trough_Date,Recovery_Date,Total_Trades,Buy_Trades,Sell_Trades,Win_Rate_%,Avg_Name_Turnover_%,Avg_Value_Turnover_%,Total_Transaction_Costs_INR
+Strategy 1 - Top-X Buy-and-Hold,250000.0,388054.78,55.2219,11.6951,21.7274,0.3387,0.4588,-34.431,2024-08-27,2026-03-30,Not Recovered,15,15,0,,100.0,100.0,374.4
+Strategy 2 - Top-X Equal-Weight Momentum (Buffer),250000.0,359887.32,43.9549,9.5978,11.7696,0.3185,0.4166,-18.8597,2022-12-20,2023-02-27,2023-06-13,3432,1891,1541,75.7949,2.1958,7.4867,26202.3
+Strategy 3 - Top-X Rank-Weighted Momentum,250000.0,548245.69,119.2983,21.8393,23.0347,0.7179,0.9697,-35.3619,2024-07-11,2025-04-07,Not Recovered,934,480,454,56.6079,33.4725,40.6433,36489.49
+Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,250000.0,326784.24,30.7137,6.9696,11.4526,0.1075,0.1524,-15.2344,2024-09-27,2025-03-04,2025-10-23,1,1,0,,100.0,100.0,374.44

@@ -1,0 +1,4 @@
+Case ID,Strategy,Starting Capital (INR),Final Value (INR),Total Return (%),CAGR (%),Annualized Volatility (%),Sharpe Ratio (Rf=0%),Max Drawdown (%),Average Daily Holdings,Average Monthly Transaction Cost (INR)
+1,Case 1: Pure Momentum,50000.0,132103.45,164.21,27.68,22.11,1.24,-29.6,50.0,45.52
+2,Case 2: Risk-Adjusted Momentum,50000.0,126258.87,152.52,26.24,20.25,1.28,-26.23,50.0,44.98
+3,Case 3: Risk-Adjusted Momentum + Monthly 200-DMA Filter,50000.0,110265.86,120.53,22.01,18.09,1.21,-24.01,45.11,51.03

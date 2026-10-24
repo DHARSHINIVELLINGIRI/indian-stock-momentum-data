@@ -1,0 +1,1942 @@
+Date,Strategy,Ticker,Shares,Target_Weight,Actual_Weight
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,MIRZAINT.NS,82.113672,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,ADANIPOWER.NS,370.254477,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,ADANIENT.NS,7.438644,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,SCHAEFFLER.NS,9.36065,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,BLS.NS,155.368952,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,ATGL.NS,6.903475,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,ARCHIDPLY.NS,317.387866,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,HAL.NS,20.665518,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,FINEORG.NS,4.418938,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,TVSMOTOR.NS,22.067596,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,TRF.NS,161.361064,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,SPECIALITY.NS,132.895271,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,VBL.NS,118.93325,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,ELECON.NS,133.664903,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,KPITTECH.NS,35.920567,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,RAYMOND.NS,20.981074,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,PGEL.NS,238.04474,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,TIINDIA.NS,9.170984,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,ITC.NS,86.535202,0.05,0.05
+2022-11-01,Strategy 1 - Top-X Buy-and-Hold,GESHIP.NS,51.791736,0.05,0.05
+2022-11-01,Strategy 4 - NIFTYBEES Benchmark Buy-and-Hold,NIFTYBEES.NS,2524.0,1.0,0.999992
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MIRZAINT.NS,82.0,0.05,0.049929
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIPOWER.NS,370.0,0.05,0.049964
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIENT.NS,7.0,0.05,0.04705
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SCHAEFFLER.NS,9.0,0.05,0.048072
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BLS.NS,155.0,0.05,0.04988
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ATGL.NS,6.0,0.05,0.043455
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARCHIDPLY.NS,317.0,0.05,0.049937
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,20.0,0.05,0.048388
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINEORG.NS,4.0,0.05,0.045258
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,22.0,0.05,0.049845
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRF.NS,161.0,0.05,0.049886
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SPECIALITY.NS,133.0,0.05,0.050038
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,119.0,0.05,0.050026
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECON.NS,133.0,0.05,0.04975
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KPITTECH.NS,35.0,0.05,0.048717
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RAYMOND.NS,21.0,0.05,0.050043
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,238.0,0.05,0.049989
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TIINDIA.NS,9.0,0.05,0.049066
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,86.0,0.05,0.049689
+2022-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,51.0,0.05,0.049234
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,MIRZAINT.NS,156.0,0.095238,0.094987
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,670.0,0.090476,0.090476
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIENT.NS,12.0,0.085714,0.080657
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,SCHAEFFLER.NS,15.0,0.080952,0.08012
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,BLS.NS,237.0,0.07619,0.076268
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,ATGL.NS,9.0,0.071429,0.065183
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,ARCHIDPLY.NS,423.0,0.066667,0.066636
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,25.0,0.061905,0.060485
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,FINEORG.NS,5.0,0.057143,0.056573
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,23.0,0.052381,0.052111
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRF.NS,153.0,0.047619,0.047408
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,SPECIALITY.NS,114.0,0.042857,0.04289
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,VBL.NS,90.0,0.038095,0.037835
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,ELECON.NS,89.0,0.033333,0.033291
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,KPITTECH.NS,20.0,0.028571,0.027838
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,RAYMOND.NS,10.0,0.02381,0.02383
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,PGEL.NS,90.0,0.019048,0.018903
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,TIINDIA.NS,2.0,0.014286,0.010904
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,16.0,0.009524,0.009245
+2022-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,GESHIP.NS,4.0,0.004762,0.003862
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIPOWER.NS,393.0,0.05,0.050023
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BLS.NS,143.0,0.05,0.049892
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MIRZAINT.NS,86.0,0.05,0.05004
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,19.0,0.05,0.047558
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,93.0,0.05,0.049642
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,59.0,0.05,0.049635
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,327.0,0.05,0.049918
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIENT.NS,6.0,0.05,0.044601
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ATGL.NS,7.0,0.05,0.048269
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SCHAEFFLER.NS,10.0,0.05,0.049437
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,18.0,0.05,0.049365
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,25.0,0.05,0.049246
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COALINDIA.NS,149.0,0.05,0.050005
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,45.0,0.05,0.049807
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,104.0,0.05,0.049657
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SPECIALITY.NS,136.0,0.05,0.049994
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RAYMOND.NS,19.0,0.05,0.048771
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TIINDIA.NS,9.0,0.05,0.047073
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,269.0,0.05,0.049957
+2022-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECON.NS,115.0,0.05,0.049742
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,744.0,0.095238,0.0954
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,BLS.NS,257.0,0.090476,0.090329
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,MIRZAINT.NS,146.0,0.085714,0.08558
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,32.0,0.080952,0.08069
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,141.0,0.07619,0.07582
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,84.0,0.071429,0.071189
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,434.0,0.066667,0.066742
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIENT.NS,8.0,0.061905,0.059908
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ATGL.NS,8.0,0.057143,0.055573
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,SCHAEFFLER.NS,10.0,0.052381,0.049802
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,17.0,0.047619,0.046967
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,21.0,0.042857,0.041673
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,COALINDIA.NS,112.0,0.038095,0.037866
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,GESHIP.NS,29.0,0.033333,0.032335
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,11.0,0.028571,0.028222
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTFOODS.NS,112.0,0.02381,0.023746
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,VBL.NS,39.0,0.019048,0.018759
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,JKPAPER.NS,18.0,0.014286,0.013597
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,M&M.NS,3.0,0.009524,0.007249
+2022-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,10.0,0.004762,0.004634
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BLS.NS,161.0,0.05,0.049844
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,67.0,0.05,0.049402
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIPOWER.NS,434.0,0.05,0.050021
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,21.0,0.05,0.048646
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,44.0,0.05,0.049117
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIENT.NS,6.0,0.05,0.044082
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECON.NS,144.0,0.05,0.049845
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,401.0,0.05,0.049944
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,96.0,0.05,0.049902
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BANKBARODA.NS,159.0,0.05,0.049917
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,290.0,0.05,0.050037
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,99.0,0.05,0.049938
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,103.0,0.05,0.049834
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,24.0,0.05,0.048716
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SPECIALITY.NS,117.0,0.05,0.049771
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COALINDIA.NS,149.0,0.05,0.049923
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MIRZAINT.NS,106.0,0.05,0.049988
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ATGL.NS,7.0,0.05,0.049192
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RAYMOND.NS,17.0,0.05,0.047418
+2023-01-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,15.0,0.05,0.050009
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,BLS.NS,295.0,0.095238,0.095112
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,118.0,0.090476,0.090609
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,715.0,0.085714,0.085822
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,33.0,0.080952,0.07961
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,GESHIP.NS,65.0,0.07619,0.075564
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIENT.NS,9.0,0.071429,0.068862
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,ELECON.NS,185.0,0.066667,0.066689
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,478.0,0.061905,0.062
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,105.0,0.057143,0.056841
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,BANKBARODA.NS,160.0,0.052381,0.052311
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,265.0,0.047619,0.047617
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,VBL.NS,81.0,0.042857,0.042551
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,COCHINSHIP.NS,75.0,0.038095,0.03779
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,64.0,0.033333,0.032942
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,13.0,0.028571,0.027481
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,GRSE.NS,25.0,0.02381,0.023178
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,JKPAPER.NS,25.0,0.019048,0.01903
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,31.0,0.014286,0.013901
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,SOLARINDS.NS,1.0,0.009524,0.008775
+2023-01-02,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,1.0,0.004762,0.002588
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BLS.NS,138.0,0.05,0.04973
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,65.0,0.05,0.05001
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,292.0,0.05,0.049892
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,43.0,0.05,0.049273
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,109.0,0.05,0.049663
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIPOWER.NS,575.0,0.05,0.049982
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,86.0,0.05,0.049763
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,864.0,0.05,0.050007
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIENT.NS,8.0,0.05,0.047465
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,91.0,0.05,0.050039
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,20.0,0.05,0.04901
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,24.0,0.05,0.048819
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BANKBARODA.NS,168.0,0.05,0.049992
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,337.0,0.05,0.04999
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SPECIALITY.NS,104.0,0.05,0.049696
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECON.NS,131.0,0.05,0.049969
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,14.0,0.05,0.047892
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ATGL.NS,12.0,0.05,0.0464
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,102.0,0.05,0.050026
+2023-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COALINDIA.NS,142.0,0.05,0.049919
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,BLS.NS,258.0,0.095238,0.095242
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,114.0,0.090476,0.089851
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,490.0,0.085714,0.085767
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,GESHIP.NS,69.0,0.080952,0.080996
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,VBL.NS,163.0,0.07619,0.076079
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,803.0,0.071429,0.071505
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,112.0,0.066667,0.06639
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,UCOBANK.NS,1045.0,0.061905,0.061959
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIENT.NS,9.0,0.057143,0.054701
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,93.0,0.052381,0.052387
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,18.0,0.047619,0.045185
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,20.0,0.042857,0.041676
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOUTHBANK.NS,1090.0,0.038095,0.038118
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,FACT.NS,53.0,0.033333,0.033175
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,PSB.NS,483.0,0.028571,0.028599
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOLARINDS.NS,2.0,0.02381,0.016341
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,BANKBARODA.NS,62.0,0.019048,0.0189
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,94.0,0.014286,0.014284
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,SPECIALITY.NS,19.0,0.009524,0.009301
+2023-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,73.0,0.004762,0.004753
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BLS.NS,146.0,0.05,0.05
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,63.0,0.05,0.049484
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,405.0,0.05,0.050009
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,735.0,0.05,0.050054
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,107.0,0.05,0.049944
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,71.0,0.05,0.049925
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECON.NS,114.0,0.05,0.050038
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,278.0,0.05,0.049897
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,95.0,0.05,0.049651
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,18.0,0.05,0.049839
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,890.0,0.05,0.050012
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,46.0,0.05,0.049693
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1397.0,0.05,0.050057
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,86.0,0.05,0.050002
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHENNPETRO.NS,118.0,0.05,0.050052
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,9.0,0.05,0.045509
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FACT.NS,95.0,0.05,0.049801
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,20.0,0.05,0.047964
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COALINDIA.NS,130.0,0.05,0.049882
+2023-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,101.0,0.05,0.04986
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,BLS.NS,271.0,0.095238,0.095337
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,112.0,0.090476,0.09037
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,676.0,0.085714,0.085747
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,1159.0,0.080952,0.08108
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,159.0,0.07619,0.076238
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,99.0,0.071429,0.071511
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,ELECON.NS,148.0,0.066667,0.066733
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,336.0,0.061905,0.061951
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,106.0,0.057143,0.05691
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,18.0,0.052381,0.051198
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,UCOBANK.NS,826.0,0.047619,0.047681
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,GESHIP.NS,38.0,0.042857,0.04217
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOUTHBANK.NS,1036.0,0.038095,0.038134
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,VBL.NS,55.0,0.033333,0.03285
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,CHENNPETRO.NS,65.0,0.028571,0.028323
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,4.0,0.02381,0.020778
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,FACT.NS,35.0,0.019048,0.018848
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOLARINDS.NS,1.0,0.014286,0.008976
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,CIEINDIA.NS,10.0,0.009524,0.009379
+2023-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,KRBL.NS,6.0,0.004762,0.004481
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,9.0,0.05,0.048064
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,72.0,0.05,0.050042
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECON.NS,123.0,0.05,0.050018
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CIEINDIA.NS,68.0,0.05,0.049453
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,279.0,0.05,0.049954
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BLS.NS,140.0,0.05,0.049794
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,802.0,0.05,0.050038
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,21.0,0.05,0.048106
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,84.0,0.05,0.049917
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,72.0,0.05,0.049934
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),M&M.NS,20.0,0.05,0.048192
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,987.0,0.05,0.050033
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,17.0,0.05,0.048751
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1655.0,0.05,0.050048
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINCABLES.NS,29.0,0.05,0.049917
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,88.0,0.05,0.049953
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BRITANNIA.NS,5.0,0.05,0.04403
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,88.0,0.05,0.049541
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,40.0,0.05,0.049657
+2023-04-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,346.0,0.05,0.049996
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,17.0,0.095238,0.092459
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,128.0,0.090476,0.090602
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,ELECON.NS,207.0,0.085714,0.085727
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,CIEINDIA.NS,109.0,0.080952,0.080729
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,418.0,0.07619,0.07622
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,BLS.NS,197.0,0.071429,0.071357
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,1050.0,0.066667,0.066718
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,26.0,0.061905,0.060657
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,VBL.NS,94.0,0.057143,0.056888
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,74.0,0.052381,0.052266
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,M&M.NS,19.0,0.047619,0.046626
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,UCOBANK.NS,831.0,0.042857,0.042901
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,13.0,0.038095,0.037967
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,SOUTHBANK.NS,1084.0,0.033333,0.033384
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,FINCABLES.NS,16.0,0.028571,0.028048
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,41.0,0.02381,0.023702
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,BRITANNIA.NS,2.0,0.019048,0.017936
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLOTYRE.NS,21.0,0.014286,0.014064
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,CGPOWER.NS,14.0,0.009524,0.009228
+2023-04-03,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,8.0,0.004762,0.004587
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,9.0,0.05,0.04741
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,73.0,0.05,0.049724
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,79.0,0.05,0.049994
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,334.0,0.05,0.049926
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINCABLES.NS,29.0,0.05,0.048551
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,90.0,0.05,0.04959
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,215.0,0.05,0.049914
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1660.0,0.05,0.050017
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,23.0,0.05,0.049733
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,17.0,0.05,0.048662
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECON.NS,121.0,0.05,0.049639
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CIEINDIA.NS,68.0,0.05,0.049948
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,885.0,0.05,0.049973
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,88.0,0.05,0.049733
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,71.0,0.05,0.049824
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,835.0,0.05,0.049986
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,18.0,0.05,0.048677
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BLS.NS,148.0,0.05,0.049795
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,237.0,0.05,0.0499
+2023-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,43.0,0.05,0.050022
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,17.0,0.095238,0.093979
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,126.0,0.090476,0.090069
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,129.0,0.085714,0.085673
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,516.0,0.080952,0.080946
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,FINCABLES.NS,43.0,0.07619,0.07555
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,VBL.NS,123.0,0.071429,0.071124
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,274.0,0.066667,0.066756
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,SOUTHBANK.NS,1960.0,0.061905,0.061976
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,25.0,0.057143,0.056731
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,17.0,0.052381,0.051068
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,ELECON.NS,110.0,0.047619,0.047358
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,CIEINDIA.NS,55.0,0.042857,0.042396
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,UCOBANK.NS,643.0,0.038095,0.038103
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,56.0,0.033333,0.033213
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,38.0,0.028571,0.027985
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,379.0,0.02381,0.02381
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,93.0,0.019048,0.019034
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,ABB.NS,2.0,0.014286,0.013268
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,SIEMENS.NS,2.0,0.009524,0.008024
+2023-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLOTYRE.NS,7.0,0.004762,0.004653
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,10.0,0.05,0.049048
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,229.0,0.05,0.049961
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,78.0,0.05,0.049699
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINCABLES.NS,35.0,0.05,0.049196
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,809.0,0.05,0.049991
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,95.0,0.05,0.049894
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,70.0,0.05,0.049829
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,184.0,0.05,0.049999
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,72.0,0.05,0.049887
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,1091.0,0.05,0.050037
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CIEINDIA.NS,64.0,0.05,0.049929
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,324.0,0.05,0.049907
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,59.0,0.05,0.049947
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BANKBARODA.NS,169.0,0.05,0.049944
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,113.0,0.05,0.049869
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECON.NS,106.0,0.05,0.04991
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,82.0,0.05,0.04961
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,21.0,0.05,0.048209
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,16.0,0.05,0.04849
+2023-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1657.0,0.05,0.050045
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,18.0,0.095238,0.092043
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,398.0,0.090476,0.090527
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,129.0,0.085714,0.085692
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,FINCABLES.NS,55.0,0.080952,0.080598
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,1184.0,0.07619,0.076277
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,JSL.NS,130.0,0.071429,0.071181
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,89.0,0.066667,0.06605
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,218.0,0.061905,0.061759
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,79.0,0.057143,0.057066
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,UCOBANK.NS,1097.0,0.052381,0.052454
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,CIEINDIA.NS,58.0,0.047619,0.047174
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,267.0,0.042857,0.042877
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,ACE.NS,43.0,0.038095,0.037951
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,BANKBARODA.NS,108.0,0.033333,0.033275
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,UNIONBANK.NS,241.0,0.028571,0.028586
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,51.0,0.02381,0.023465
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRCON.NS,131.0,0.019048,0.018982
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,63.0,0.014286,0.014203
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,NCC.NS,44.0,0.009524,0.009426
+2023-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,PSB.NS,81.0,0.004762,0.004743
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,63.0,0.05,0.049972
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,263.0,0.05,0.049928
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,198.0,0.05,0.049905
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,97.0,0.05,0.050018
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,254.0,0.05,0.05003
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IDFCFIRSTB.NS,400.0,0.05,0.049961
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,51.0,0.05,0.049854
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,82.0,0.05,0.049967
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CGPOWER.NS,84.0,0.05,0.049816
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,608.0,0.05,0.049964
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,9.0,0.05,0.048399
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,316.0,0.05,0.049895
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINCABLES.NS,37.0,0.05,0.048836
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VBL.NS,100.0,0.05,0.049995
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,17.0,0.05,0.049614
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,65.0,0.05,0.050021
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CIEINDIA.NS,64.0,0.05,0.049851
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,1194.0,0.05,0.050026
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BANKBARODA.NS,182.0,0.05,0.049936
+2023-07-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1712.0,0.05,0.050011
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,119.0,0.095238,0.095392
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,472.0,0.090476,0.090554
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,337.0,0.085714,0.08584
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,JSL.NS,155.0,0.080952,0.080773
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,JINDALSAW.NS,383.0,0.07619,0.076238
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,IDFCFIRSTB.NS,566.0,0.071429,0.071444
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,67.0,0.066667,0.066188
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,ITC.NS,100.0,0.061905,0.061581
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,CGPOWER.NS,95.0,0.057143,0.056937
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLOTYRE.NS,87.0,0.052381,0.052436
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,RKFORGE.NS,67.0,0.047619,0.047225
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,516.0,0.042857,0.042853
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,TRITURBINE.NS,60.0,0.038095,0.037903
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,6.0,0.033333,0.032608
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,NCC.NS,152.0,0.028571,0.028538
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,149.0,0.02381,0.023776
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,SCHNEIDER.NS,45.0,0.019048,0.01873
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,EQUITASBNK.NS,101.0,0.014286,0.014239
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,FINCABLES.NS,7.0,0.009524,0.009337
+2023-07-03,Strategy 3 - Top-X Rank-Weighted Momentum,VBL.NS,9.0,0.004762,0.004547
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,55.0,0.05,0.0499
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,38.0,0.05,0.049091
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,626.0,0.05,0.049995
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,290.0,0.05,0.049949
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,9.0,0.05,0.046393
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,198.0,0.05,0.049962
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FACT.NS,75.0,0.05,0.049628
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,90.0,0.05,0.049617
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,222.0,0.05,0.049919
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JBMA.NS,51.0,0.05,0.049841
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RKFORGE.NS,63.0,0.05,0.049449
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IDFCFIRSTB.NS,412.0,0.05,0.049965
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,361.0,0.05,0.049922
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,89.0,0.05,0.049563
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINCABLES.NS,34.0,0.05,0.048695
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1914.0,0.05,0.050027
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,1308.0,0.05,0.050031
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,49.0,0.05,0.049427
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CIEINDIA.NS,73.0,0.05,0.049719
+2023-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,18.0,0.05,0.047511
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,106.0,0.095238,0.094562
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,71.0,0.090476,0.090187
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,1092.0,0.085714,0.085752
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,478.0,0.080952,0.080952
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,15.0,0.07619,0.076028
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,288.0,0.071429,0.071455
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,FACT.NS,102.0,0.066667,0.066364
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,JSL.NS,114.0,0.061905,0.061796
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,JINDALSAW.NS,258.0,0.057143,0.057043
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,JBMA.NS,54.0,0.052381,0.051889
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,RKFORGE.NS,61.0,0.047619,0.047079
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,169.0,0.042857,0.042681
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,IDFCFIRSTB.NS,319.0,0.038095,0.038039
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,12.0,0.033333,0.031473
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,210.0,0.028571,0.028555
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRITURBINE.NS,44.0,0.02381,0.023728
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,79.0,0.019048,0.018994
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLOTYRE.NS,24.0,0.014286,0.013765
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,CYIENT.NS,4.0,0.009524,0.007684
+2023-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,NCC.NS,22.0,0.004762,0.0046
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,42.0,0.05,0.049423
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,47.0,0.05,0.049645
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,704.0,0.05,0.050035
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,223.0,0.05,0.049974
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,85.0,0.05,0.049662
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,298.0,0.05,0.04999
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RKFORGE.NS,53.0,0.05,0.049586
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JBMA.NS,51.0,0.05,0.049654
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,213.0,0.05,0.04986
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,50.0,0.05,0.049277
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FACT.NS,83.0,0.05,0.049891
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,182.0,0.05,0.0499
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,111.0,0.05,0.049687
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,50.0,0.05,0.04961
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,7.0,0.05,0.044736
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINCABLES.NS,36.0,0.05,0.049995
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ITC.NS,102.0,0.05,0.049898
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IDFCFIRSTB.NS,423.0,0.05,0.049987
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1713.0,0.05,0.050025
+2023-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,1282.0,0.05,0.050032
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,83.0,0.095238,0.094754
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,88.0,0.090476,0.090179
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,1244.0,0.085714,0.085775
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,JINDALSAW.NS,372.0,0.080952,0.080877
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,JSL.NS,134.0,0.07619,0.075954
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,439.0,0.071429,0.071446
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,RKFORGE.NS,73.0,0.066667,0.066259
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,JBMA.NS,65.0,0.061905,0.061395
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,251.0,0.057143,0.057002
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ACE.NS,54.0,0.052381,0.051631
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,FACT.NS,81.0,0.047619,0.047236
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,161.0,0.042857,0.042825
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,87.0,0.038095,0.037782
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,GLENMARK.NS,34.0,0.033333,0.032728
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,109.0,0.028571,0.02858
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ENGINERSIN.NS,129.0,0.02381,0.023813
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUNFLAG.NS,75.0,0.019048,0.018929
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,POLYCAB.NS,2.0,0.014286,0.012726
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,1.0,0.009524,0.0062
+2023-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,NCC.NS,22.0,0.004762,0.004682
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,53.0,0.05,0.049475
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RKFORGE.NS,64.0,0.05,0.04927
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,89.0,0.05,0.049946
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JBMA.NS,61.0,0.05,0.049983
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,39.0,0.05,0.050004
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,246.0,0.05,0.049993
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,165.0,0.05,0.049944
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,7.0,0.05,0.045393
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,201.0,0.05,0.049926
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,188.0,0.05,0.049761
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,100.0,0.05,0.0498
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,708.0,0.05,0.049979
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,248.0,0.05,0.050019
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FACT.NS,77.0,0.05,0.049775
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,60.0,0.05,0.049247
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINCABLES.NS,37.0,0.05,0.049019
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IDFCFIRSTB.NS,438.0,0.05,0.049911
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,49.0,0.05,0.049805
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,989.0,0.05,0.049975
+2023-10-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1583.0,0.05,0.050022
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,103.0,0.095238,0.095288
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,RKFORGE.NS,118.0,0.090476,0.090027
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,JSL.NS,154.0,0.085714,0.085648
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,JBMA.NS,99.0,0.080952,0.080393
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,60.0,0.07619,0.076239
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,JINDALSAW.NS,355.0,0.071429,0.071497
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,222.0,0.066667,0.066595
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,9.0,0.061905,0.05784
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,232.0,0.057143,0.05711
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,199.0,0.052381,0.0522
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,96.0,0.047619,0.047379
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,613.0,0.042857,0.042885
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,190.0,0.038095,0.037978
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,FACT.NS,52.0,0.033333,0.033313
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,ACE.NS,35.0,0.028571,0.02847
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,SUPREMEIND.NS,5.0,0.02381,0.023808
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,SARDAEN.NS,72.0,0.019048,0.019065
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,IRCON.NS,86.0,0.014286,0.014184
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,NEWGEN.NS,18.0,0.009524,0.009483
+2023-10-03,Strategy 3 - Top-X Rank-Weighted Momentum,ENGINERSIN.NS,29.0,0.004762,0.004726
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,56.0,0.05,0.049992
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,168.0,0.05,0.049787
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,97.0,0.05,0.049644
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,196.0,0.05,0.049918
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,196.0,0.05,0.049799
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,280.0,0.05,0.049988
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,90.0,0.05,0.04955
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,8.0,0.05,0.047796
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,613.0,0.05,0.049984
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FACT.NS,55.0,0.05,0.049785
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JBMA.NS,71.0,0.05,0.049651
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,44.0,0.05,0.049482
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRCON.NS,319.0,0.05,0.049885
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RKFORGE.NS,67.0,0.05,0.049872
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UCOBANK.NS,1194.0,0.05,0.050033
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,212.0,0.05,0.049898
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,192.0,0.05,0.049916
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,51.0,0.05,0.049944
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FINCABLES.NS,48.0,0.05,0.049149
+2023-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,57.0,0.05,0.049757
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,109.0,0.095238,0.094802
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,313.0,0.090476,0.090373
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,JSL.NS,172.0,0.085714,0.085765
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,JINDALSAW.NS,326.0,0.080952,0.080891
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,308.0,0.07619,0.076243
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,411.0,0.071429,0.071488
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,124.0,0.066667,0.066513
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,10.0,0.061905,0.058208
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRFC.NS,720.0,0.057143,0.057199
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,FACT.NS,59.0,0.052381,0.052032
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,JBMA.NS,69.0,0.047619,0.047011
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,39.0,0.042857,0.042731
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRCON.NS,250.0,0.038095,0.038089
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,RKFORGE.NS,46.0,0.033333,0.03336
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,UCOBANK.NS,700.0,0.028571,0.028578
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,SARDAEN.NS,103.0,0.02381,0.023619
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,J&KBANK.NS,162.0,0.019048,0.019015
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,56.0,0.014286,0.014184
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,ZENSARTECH.NS,17.0,0.009524,0.009014
+2023-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,CYIENT.NS,2.0,0.004762,0.003475
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,213.0,0.05,0.049858
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,49.0,0.05,0.049628
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,72.0,0.05,0.049734
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,153.0,0.05,0.049941
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NEWGEN.NS,67.0,0.05,0.049819
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1205.0,0.05,0.050011
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FACT.NS,67.0,0.05,0.049469
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHENNPETRO.NS,80.0,0.05,0.050028
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,8.0,0.05,0.046095
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RKFORGE.NS,60.0,0.05,0.05004
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,158.0,0.05,0.049729
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,97.0,0.05,0.049956
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,198.0,0.05,0.05001
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JBMA.NS,78.0,0.05,0.05001
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,149.0,0.05,0.049767
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,57.0,0.05,0.049695
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,201.0,0.05,0.049903
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,666.0,0.05,0.050033
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,297.0,0.05,0.050026
+2023-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRCON.NS,300.0,0.05,0.049917
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,JINDALSAW.NS,428.0,0.095238,0.095308
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,94.0,0.090476,0.090571
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,130.0,0.085714,0.085428
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,261.0,0.080952,0.081048
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,NEWGEN.NS,107.0,0.07619,0.07569
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,1811.0,0.071429,0.071504
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,FACT.NS,95.0,0.066667,0.06673
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,CHENNPETRO.NS,104.0,0.061905,0.061872
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,10.0,0.057143,0.054815
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,RKFORGE.NS,66.0,0.052381,0.052365
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,159.0,0.047619,0.047609
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,JSL.NS,87.0,0.042857,0.042625
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,158.0,0.038095,0.037965
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,JBMA.NS,54.0,0.033333,0.032937
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,90.0,0.028571,0.028598
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,189.0,0.02381,0.023834
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ACE.NS,22.0,0.019048,0.018247
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,POLYCAB.NS,2.0,0.014286,0.010394
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ZENSARTECH.NS,18.0,0.009524,0.009077
+2023-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,SONATSOFTW.NS,7.0,0.004762,0.004596
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,79.0,0.05,0.049693
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,49.0,0.05,0.049965
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,255.0,0.05,0.049976
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NEWGEN.NS,64.0,0.05,0.049293
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,139.0,0.05,0.049747
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,149.0,0.05,0.049807
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,435.0,0.05,0.049978
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1331.0,0.05,0.050011
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,475.0,0.05,0.050013
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RKFORGE.NS,71.0,0.05,0.0496
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAHSEAMLES.NS,58.0,0.05,0.050033
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHENNPETRO.NS,80.0,0.05,0.049604
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,8.0,0.05,0.046535
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BECTORFOOD.NS,231.0,0.05,0.049889
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,61.0,0.05,0.049375
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,90.0,0.05,0.049931
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRCON.NS,310.0,0.05,0.049879
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JBMA.NS,68.0,0.05,0.049533
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,205.0,0.05,0.049915
+2024-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,145.0,0.05,0.049796
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,155.0,0.095238,0.094905
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,91.0,0.090476,0.090323
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,JINDALSAW.NS,449.0,0.085714,0.085655
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,NEWGEN.NS,108.0,0.080952,0.080968
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,218.0,0.07619,0.075944
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,219.0,0.071429,0.071258
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,596.0,0.066667,0.066654
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,1694.0,0.061905,0.061956
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,558.0,0.057143,0.057189
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,RKFORGE.NS,77.0,0.052381,0.05236
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAHSEAMLES.NS,56.0,0.047619,0.047023
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,CHENNPETRO.NS,71.0,0.042857,0.042852
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,6.0,0.038095,0.033973
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,AUROPHARMA.NS,32.0,0.033333,0.032814
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,BECTORFOOD.NS,136.0,0.028571,0.02859
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,ACE.NS,30.0,0.02381,0.023637
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,JSL.NS,35.0,0.019048,0.018901
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,SONATSOFTW.NS,21.0,0.014286,0.014034
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,WELCORP.NS,18.0,0.009524,0.009205
+2024-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,1.0,0.004762,0.002901
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,54.0,0.05,0.04986
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,133.0,0.05,0.050013
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,77.0,0.05,0.049401
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NEWGEN.NS,69.0,0.05,0.049418
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,19.0,0.05,0.04933
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,148.0,0.05,0.049735
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1255.0,0.05,0.050019
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NLCINDIA.NS,236.0,0.05,0.049884
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,193.0,0.05,0.049791
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAHSEAMLES.NS,59.0,0.05,0.049332
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,9.0,0.05,0.047415
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,232.0,0.05,0.049942
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHENNPETRO.NS,76.0,0.05,0.0494
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,353.0,0.05,0.050033
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ACE.NS,60.0,0.05,0.049471
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,167.0,0.05,0.049984
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RKFORGE.NS,78.0,0.05,0.049983
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,464.0,0.05,0.04995
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRCON.NS,258.0,0.05,0.049901
+2024-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JSL.NS,105.0,0.05,0.049657
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,106.0,0.095238,0.09521
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,247.0,0.090476,0.090354
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,137.0,0.085714,0.085504
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,NEWGEN.NS,116.0,0.080952,0.080819
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,30.0,0.07619,0.075771
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,218.0,0.071429,0.071265
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,1721.0,0.066667,0.066726
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,NLCINDIA.NS,301.0,0.061905,0.061891
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,ARVIND.NS,227.0,0.057143,0.056969
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,AUROPHARMA.NS,55.0,0.052381,0.051802
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAHSEAMLES.NS,58.0,0.047619,0.047176
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,8.0,0.042857,0.041
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,JINDALSAW.NS,182.0,0.038095,0.038112
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,BSOFT.NS,49.0,0.033333,0.032728
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,11.0,0.028571,0.026401
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,CHENNPETRO.NS,37.0,0.02381,0.023396
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,PATELENG.NS,332.0,0.019048,0.01905
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,15.0,0.014286,0.013905
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,69.0,0.009524,0.009514
+2024-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,2.0,0.004762,0.003269
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,151.0,0.05,0.049926
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,65.0,0.05,0.049541
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,418.0,0.05,0.049941
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,381.0,0.05,0.05003
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1313.0,0.05,0.050034
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,63.0,0.05,0.049409
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,165.0,0.05,0.049797
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEDMUTHA.NS,228.0,0.05,0.049938
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PATELENG.NS,868.0,0.05,0.05005
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,219.0,0.05,0.049906
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BSOFT.NS,79.0,0.05,0.049518
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRCON.NS,269.0,0.05,0.049931
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,247.0,0.05,0.049882
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAHSEAMLES.NS,66.0,0.05,0.049519
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NEWGEN.NS,70.0,0.05,0.049425
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHENNPETRO.NS,74.0,0.05,0.049877
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NLCINDIA.NS,277.0,0.05,0.049925
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,477.0,0.05,0.04997
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JINDALSAW.NS,252.0,0.05,0.050033
+2024-03-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RKFORGE.NS,76.0,0.05,0.049881
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,285.0,0.095238,0.095167
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,117.0,0.090476,0.09006
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRFC.NS,711.0,0.085714,0.085792
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,611.0,0.080952,0.081028
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,1982.0,0.07619,0.076277
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,90.0,0.071429,0.071285
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,219.0,0.066667,0.06675
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,BEDMUTHA.NS,280.0,0.061905,0.061937
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,PATELENG.NS,982.0,0.057143,0.057185
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,ARVIND.NS,227.0,0.052381,0.052243
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,BSOFT.NS,75.0,0.047619,0.047477
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRCON.NS,228.0,0.042857,0.042741
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,187.0,0.038095,0.03814
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAHSEAMLES.NS,44.0,0.033333,0.033341
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,NEWGEN.NS,40.0,0.028571,0.028523
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,RAILTEL.NS,63.0,0.02381,0.023649
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,SJVN.NS,191.0,0.019048,0.01901
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,WELCORP.NS,33.0,0.014286,0.014268
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,LUPIN.NS,7.0,0.009524,0.009408
+2024-03-01,Strategy 3 - Top-X Rank-Weighted Momentum,HUDCO.NS,31.0,0.004762,0.004679
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,61.0,0.05,0.049407
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,320.0,0.05,0.049943
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1429.0,0.05,0.050021
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,407.0,0.05,0.050021
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,140.0,0.05,0.04976
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEDMUTHA.NS,256.0,0.05,0.05001
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PATELENG.NS,993.0,0.05,0.050029
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,324.0,0.05,0.049894
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,590.0,0.05,0.050024
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAGARH.NS,61.0,0.05,0.049588
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LUPIN.NS,35.0,0.05,0.049708
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SCHNEIDER.NS,73.0,0.05,0.049507
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,159.0,0.05,0.049886
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NEWGEN.NS,71.0,0.05,0.049523
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,14.0,0.05,0.048638
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,217.0,0.05,0.049998
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BSOFT.NS,79.0,0.05,0.049726
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRCON.NS,266.0,0.05,0.049858
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,222.0,0.05,0.049996
+2024-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHENNPETRO.NS,69.0,0.05,0.04958
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,118.0,0.095238,0.094916
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,584.0,0.090476,0.090517
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,2468.0,0.085714,0.085795
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRFC.NS,663.0,0.080952,0.080923
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,216.0,0.07619,0.076244
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,BEDMUTHA.NS,368.0,0.071429,0.071393
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,PATELENG.NS,1333.0,0.066667,0.066696
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,HUDCO.NS,405.0,0.061905,0.061937
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,679.0,0.057143,0.057173
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,64.0,0.052381,0.051668
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,LUPIN.NS,33.0,0.047619,0.046545
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,SCHNEIDER.NS,63.0,0.042857,0.042431
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,122.0,0.038095,0.038014
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,NEWGEN.NS,48.0,0.033333,0.033249
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,8.0,0.028571,0.027602
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,ARVIND.NS,104.0,0.02381,0.023797
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,BSOFT.NS,30.0,0.019048,0.018753
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRCON.NS,76.0,0.014286,0.014147
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,42.0,0.009524,0.009394
+2024-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJ-AUTO.NS,0.0,0.004762,0.0
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,61.0,0.05,0.049231
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,331.0,0.05,0.04992
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1480.0,0.05,0.05002
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SCHNEIDER.NS,76.0,0.05,0.050017
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,149.0,0.05,0.049757
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,402.0,0.05,0.049976
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,134.0,0.05,0.05001
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BSOFT.NS,98.0,0.05,0.049993
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LUPIN.NS,38.0,0.05,0.050006
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,13.0,0.05,0.046459
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,291.0,0.05,0.049881
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,151.0,0.05,0.049839
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJ-AUTO.NS,7.0,0.05,0.048525
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEDMUTHA.NS,301.0,0.05,0.049875
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NEWGEN.NS,67.0,0.05,0.049949
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHENNPETRO.NS,66.0,0.05,0.049684
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,201.0,0.05,0.049982
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRCON.NS,253.0,0.05,0.04992
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PATELENG.NS,1058.0,0.05,0.049983
+2024-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,217.0,0.05,0.050001
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,118.0,0.095238,0.095331
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,599.0,0.090476,0.09043
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,2536.0,0.085714,0.085796
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,SCHNEIDER.NS,123.0,0.080952,0.08103
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,228.0,0.07619,0.076215
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,IRFC.NS,574.0,0.071429,0.07143
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,178.0,0.066667,0.066499
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,BSOFT.NS,121.0,0.061905,0.061788
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,LUPIN.NS,43.0,0.057143,0.056643
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,14.0,0.052381,0.050083
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,HUDCO.NS,277.0,0.047619,0.047529
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,129.0,0.042857,0.042621
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJ-AUTO.NS,5.0,0.038095,0.034696
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,BEDMUTHA.NS,201.0,0.033333,0.033338
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,124.0,0.028571,0.028373
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,NEWGEN.NS,31.0,0.02381,0.023134
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,6.0,0.019048,0.018786
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,ACE.NS,11.0,0.014286,0.013558
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,PNB.NS,89.0,0.009524,0.009532
+2024-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,CHENNPETRO.NS,6.0,0.004762,0.004521
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,64.0,0.05,0.049658
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,132.0,0.05,0.050007
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,404.0,0.05,0.049992
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SCHNEIDER.NS,95.0,0.05,0.050045
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,33.0,0.05,0.050016
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1367.0,0.05,0.050029
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,175.0,0.05,0.050004
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,14.0,0.05,0.048532
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,353.0,0.05,0.04992
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,140.0,0.05,0.049782
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHEL.NS,215.0,0.05,0.050049
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PNB.NS,542.0,0.05,0.049988
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,185.0,0.05,0.049969
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,244.0,0.05,0.049991
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,90.0,0.05,0.049805
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LUPIN.NS,43.0,0.05,0.049929
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NEWGEN.NS,72.0,0.05,0.049565
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEDMUTHA.NS,254.0,0.05,0.050002
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJ-AUTO.NS,7.0,0.05,0.044871
+2024-06-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHENNPETRO.NS,80.0,0.05,0.050025
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,118.0,0.095238,0.094737
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,231.0,0.090476,0.090552
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,670.0,0.085714,0.085787
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,SCHNEIDER.NS,148.0,0.080952,0.080672
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,COCHINSHIP.NS,48.0,0.07619,0.075276
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,1888.0,0.071429,0.071496
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,225.0,0.066667,0.066524
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,17.0,0.061905,0.060978
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,IRFC.NS,390.0,0.057143,0.057068
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,142.0,0.052381,0.052247
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,197.0,0.047619,0.047452
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,PNB.NS,449.0,0.042857,0.042849
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,136.0,0.038095,0.03801
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,HUDCO.NS,157.0,0.033333,0.033283
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,49.0,0.028571,0.028058
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,5.0,0.02381,0.020134
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,TRF.NS,43.0,0.019048,0.018894
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,1.0,0.014286,0.00729
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,1.0,0.009524,0.006152
+2024-06-03,Strategy 3 - Top-X Rank-Weighted Momentum,SOBHA.NS,3.0,0.004762,0.004476
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,70.0,0.05,0.049402
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,30.0,0.05,0.049039
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,408.0,0.05,0.049938
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,260.0,0.05,0.049842
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,142.0,0.05,0.049699
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEDMUTHA.NS,286.0,0.05,0.049937
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,12.0,0.05,0.048018
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHEL.NS,228.0,0.05,0.049883
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,153.0,0.05,0.049856
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOBHA.NS,35.0,0.05,0.04963
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,137.0,0.05,0.049901
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,190.0,0.05,0.049919
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1290.0,0.05,0.050033
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,13.0,0.05,0.048781
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SCHNEIDER.NS,78.0,0.05,0.049922
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJ-AUTO.NS,7.0,0.05,0.046652
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,217.0,0.05,0.049951
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PNB.NS,590.0,0.05,0.050025
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,413.0,0.05,0.049983
+2024-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LUPIN.NS,43.0,0.05,0.049737
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,132.0,0.095238,0.095317
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,COCHINSHIP.NS,54.0,0.090476,0.090317
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRFC.NS,685.0,0.085714,0.085785
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,HUDCO.NS,413.0,0.080952,0.081007
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,213.0,0.07619,0.076276
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,BEDMUTHA.NS,400.0,0.071429,0.071461
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,16.0,0.066667,0.065508
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,276.0,0.061905,0.061784
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,PFC.NS,171.0,0.057143,0.057013
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOBHA.NS,36.0,0.052381,0.052231
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,127.0,0.047619,0.047331
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,ARVIND.NS,159.0,0.042857,0.042743
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,961.0,0.038095,0.038136
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,8.0,0.033333,0.030715
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,NBCC.NS,375.0,0.028571,0.0286
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SCHNEIDER.NS,36.0,0.02381,0.023575
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJ-AUTO.NS,2.0,0.019048,0.013638
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAGARH.NS,10.0,0.014286,0.013782
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,40.0,0.009524,0.009421
+2024-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,OIL.NS,13.0,0.004762,0.004481
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,28.0,0.05,0.049466
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,80.0,0.05,0.049844
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,393.0,0.05,0.049982
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,12.0,0.05,0.047739
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,251.0,0.05,0.049979
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,6.0,0.05,0.049431
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,127.0,0.05,0.049701
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PRESTIGE.NS,40.0,0.05,0.049015
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,15.0,0.05,0.048769
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NBCC.NS,621.0,0.05,0.049979
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,347.0,0.05,0.050006
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEDMUTHA.NS,317.0,0.05,0.049956
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOBHA.NS,41.0,0.05,0.049228
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,127.0,0.05,0.049763
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHEL.NS,236.0,0.05,0.049924
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SCHNEIDER.NS,92.0,0.05,0.050016
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,1057.0,0.05,0.049994
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJ-AUTO.NS,7.0,0.05,0.044824
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,198.0,0.05,0.049929
+2024-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PFC.NS,147.0,0.05,0.049995
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,COCHINSHIP.NS,52.0,0.095238,0.094321
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,141.0,0.090476,0.090199
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRFC.NS,657.0,0.085714,0.085792
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,19.0,0.080952,0.077608
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,HUDCO.NS,373.0,0.07619,0.076257
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,8.0,0.071429,0.067671
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,RECLTD.NS,166.0,0.066667,0.066701
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,PRESTIGE.NS,49.0,0.061905,0.061649
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,17.0,0.057143,0.05675
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,NBCC.NS,634.0,0.052381,0.05239
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,GRSE.NS,28.0,0.047619,0.046817
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,289.0,0.042857,0.042761
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,BEDMUTHA.NS,235.0,0.038095,0.038024
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOBHA.NS,27.0,0.033333,0.033285
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,71.0,0.028571,0.028564
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,OIL.NS,62.0,0.02381,0.023739
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,2.0,0.019048,0.016307
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,65.0,0.014286,0.014118
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,SCHNEIDER.NS,17.0,0.009524,0.009489
+2024-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,98.0,0.004762,0.004759
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,39.0,0.05,0.048854
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,123.0,0.05,0.049945
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,10.0,0.05,0.048389
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,976.0,0.05,0.049993
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,283.0,0.05,0.050009
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRFC.NS,427.0,0.05,0.050021
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,355.0,0.05,0.049963
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,78.0,0.05,0.049662
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OIL.NS,107.0,0.05,0.049709
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJ-AUTO.NS,7.0,0.05,0.04968
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NBCC.NS,600.0,0.05,0.050016
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PRESTIGE.NS,41.0,0.05,0.049393
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,5.0,0.05,0.044372
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHEL.NS,255.0,0.05,0.049852
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEDMUTHA.NS,309.0,0.05,0.049877
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,16.0,0.05,0.04973
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,120.0,0.05,0.049694
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOBHA.NS,44.0,0.05,0.049919
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RECLTD.NS,131.0,0.05,0.049886
+2024-09-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,186.0,0.05,0.049795
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,COCHINSHIP.NS,71.0,0.095238,0.094118
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,210.0,0.090476,0.090235
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,16.0,0.085714,0.08193
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,1495.0,0.080952,0.081035
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,HUDCO.NS,407.0,0.07619,0.076108
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,IRFC.NS,576.0,0.071429,0.071404
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,448.0,0.066667,0.066723
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,92.0,0.061905,0.061985
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,OIL.NS,116.0,0.057143,0.057028
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,TORNTPOWER.NS,43.0,0.052381,0.052088
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJ-AUTO.NS,6.0,0.047619,0.045062
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,NBCC.NS,486.0,0.042857,0.042871
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,PRESTIGE.NS,29.0,0.038095,0.03697
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,3.0,0.033333,0.028173
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,HMT.NS,465.0,0.028571,0.028582
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,115.0,0.02381,0.023791
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,BEDMUTHA.NS,111.0,0.019048,0.01896
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,HAL.NS,4.0,0.014286,0.013156
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,OFSS.NS,1.0,0.009524,0.007209
+2024-09-02,Strategy 3 - Top-X Rank-Weighted Momentum,COALINDIA.NS,14.0,0.004762,0.004563
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,9.0,0.05,0.047138
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OIL.NS,133.0,0.05,0.049863
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,74.0,0.05,0.049566
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,5.0,0.05,0.047781
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJ-AUTO.NS,6.0,0.05,0.04947
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,902.0,0.05,0.050018
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,63.0,0.05,0.049287
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ELECTCAST.NS,350.0,0.05,0.050036
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,138.0,0.05,0.04998
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,318.0,0.05,0.049923
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,99.0,0.05,0.049634
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,42.0,0.05,0.049693
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PRESTIGE.NS,39.0,0.05,0.049234
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TORNTPHARM.NS,21.0,0.05,0.048524
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEDMUTHA.NS,337.0,0.05,0.050035
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COLPAL.NS,19.0,0.05,0.047888
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,4.0,0.05,0.040308
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NBCC.NS,615.0,0.05,0.049962
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,16.0,0.05,0.047914
+2024-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,200.0,0.05,0.049901
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,17.0,0.095238,0.09523
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,OIL.NS,225.0,0.090476,0.090221
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,119.0,0.085714,0.085251
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,7.0,0.080952,0.071545
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJ-AUTO.NS,8.0,0.07619,0.070546
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUZLON.NS,1205.0,0.071429,0.071467
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,79.0,0.066667,0.066102
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,ELECTCAST.NS,405.0,0.061905,0.061925
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,RVNL.NS,147.0,0.057143,0.056941
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,HUDCO.NS,312.0,0.052381,0.052387
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,88.0,0.047619,0.047187
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,COCHINSHIP.NS,33.0,0.042857,0.04176
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,PRESTIGE.NS,28.0,0.038095,0.037806
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,TORNTPHARM.NS,13.0,0.033333,0.032128
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,BEDMUTHA.NS,180.0,0.028571,0.028583
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,COLPAL.NS,8.0,0.02381,0.021566
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,1.0,0.019048,0.010778
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,GODFRYPHLP.NS,8.0,0.014286,0.013178
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,LUPIN.NS,5.0,0.009524,0.007987
+2024-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,1.0,0.004762,0.002742
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,9.0,0.05,0.048235
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRIS.NS,166.0,0.05,0.049871
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BASF.NS,8.0,0.05,0.046584
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VEDL.NS,159.0,0.05,0.049908
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJ-AUTO.NS,6.0,0.05,0.042907
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OFSS.NS,6.0,0.05,0.045483
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,4.0,0.05,0.041416
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,4.0,0.05,0.042408
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLPHARMA.NS,54.0,0.05,0.049594
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDPETRO.NS,190.0,0.05,0.049828
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,100.0,0.05,0.049946
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,44.0,0.05,0.049663
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COLPAL.NS,22.0,0.05,0.048816
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,51.0,0.05,0.049765
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OIL.NS,149.0,0.05,0.050033
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,143.0,0.05,0.049985
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TORNTPHARM.NS,21.0,0.05,0.049894
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,15.0,0.05,0.047086
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,323.0,0.05,0.05001
+2024-11-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUZLON.NS,990.0,0.05,0.050016
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,16.0,0.095238,0.091526
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRIS.NS,282.0,0.090476,0.090427
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,BASF.NS,13.0,0.085714,0.080797
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,VEDL.NS,242.0,0.080952,0.081077
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJ-AUTO.NS,10.0,0.07619,0.076329
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,OFSS.NS,8.0,0.071429,0.064729
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,6.0,0.066667,0.066309
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,5.0,0.061905,0.05658
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLPHARMA.NS,58.0,0.057143,0.056856
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,HINDPETRO.NS,187.0,0.052381,0.052344
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,VOLTAS.NS,36.0,0.047619,0.047554
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,MOTHERSON.NS,448.0,0.042857,0.042878
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,13.0,0.038095,0.035732
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,62.0,0.033333,0.033052
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,COCHINSHIP.NS,23.0,0.028571,0.027709
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,GLENMARK.NS,17.0,0.02381,0.023003
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUNPHARMA.NS,13.0,0.019048,0.019021
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,SIEMENS.NS,4.0,0.014286,0.013015
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,BOSCHLTD.NS,0.0,0.009524,0.0
+2024-11-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,3.0,0.004762,0.003814
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,9.0,0.05,0.045981
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,4.0,0.05,0.048363
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,5.0,0.05,0.045225
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,43.0,0.05,0.049466
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,35.0,0.05,0.048736
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OFSS.NS,6.0,0.05,0.049168
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VOLTAS.NS,40.0,0.05,0.049934
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLPHARMA.NS,54.0,0.05,0.049502
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VEDL.NS,162.0,0.05,0.049904
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,53.0,0.05,0.049535
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRIS.NS,154.0,0.05,0.049977
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BASF.NS,11.0,0.05,0.048615
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,92.0,0.05,0.049862
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OIL.NS,143.0,0.05,0.050015
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,153.0,0.05,0.049989
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJ-AUTO.NS,7.0,0.05,0.046171
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,292.0,0.05,0.049998
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HAL.NS,15.0,0.05,0.049659
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,40.0,0.05,0.048819
+2024-12-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TORNTPHARM.NS,20.0,0.05,0.048959
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,17.0,0.095238,0.09457
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,6.0,0.090476,0.078991
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,8.0,0.085714,0.07879
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,GLENMARK.NS,64.0,0.080952,0.080166
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,GODFRYPHLP.NS,50.0,0.07619,0.075809
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,OFSS.NS,8.0,0.071429,0.071383
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,VOLTAS.NS,49.0,0.066667,0.066605
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLPHARMA.NS,62.0,0.061905,0.061885
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,MOTHERSON.NS,649.0,0.057143,0.057186
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,VEDL.NS,156.0,0.052381,0.052325
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,46.0,0.047619,0.046813
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,IRIS.NS,121.0,0.042857,0.042757
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,LUPIN.NS,22.0,0.038095,0.036593
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,25.0,0.033333,0.03277
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,BOSCHLTD.NS,1.0,0.028571,0.027992
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,SUNPHARMA.NS,16.0,0.02381,0.023257
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,102.0,0.019048,0.018983
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,BASF.NS,2.0,0.014286,0.009624
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,16.0,0.009524,0.009442
+2024-12-02,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,7.0,0.004762,0.004467
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRIS.NS,146.0,0.05,0.049987
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,3.0,0.05,0.040259
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OFSS.NS,5.0,0.05,0.044438
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUPRIYA.NS,89.0,0.05,0.049527
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,67.0,0.05,0.049297
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLPHARMA.NS,60.0,0.05,0.049214
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POLICYBZR.NS,31.0,0.05,0.048841
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,9.0,0.05,0.047916
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,88.0,0.05,0.049756
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,41.0,0.05,0.049256
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,39.0,0.05,0.049371
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VEDL.NS,163.0,0.05,0.04973
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,4.0,0.05,0.043167
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COCHINSHIP.NS,43.0,0.05,0.049715
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RVNL.NS,158.0,0.05,0.04981
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,53.0,0.05,0.049245
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TORNTPHARM.NS,20.0,0.05,0.049543
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VOLTAS.NS,37.0,0.05,0.049188
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OIL.NS,161.0,0.05,0.049953
+2025-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HUDCO.NS,301.0,0.05,0.050007
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRIS.NS,262.0,0.095238,0.0951
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,6.0,0.090476,0.085362
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,OFSS.NS,9.0,0.085714,0.084802
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,137.0,0.080952,0.080826
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,PGEL.NS,97.0,0.07619,0.075665
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLPHARMA.NS,82.0,0.071429,0.071306
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,POLICYBZR.NS,39.0,0.066667,0.065143
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,10.0,0.061905,0.056443
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,95.0,0.057143,0.056946
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,GLENMARK.NS,41.0,0.052381,0.05222
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,38.0,0.047619,0.047089
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,GODFRYPHLP.NS,31.0,0.042857,0.041605
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,VEDL.NS,117.0,0.038095,0.037844
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,213.0,0.033333,0.033379
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,5.0,0.028571,0.023977
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,SIEMENS.NS,7.0,0.02381,0.021198
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,1.0,0.019048,0.011441
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,M&M.NS,6.0,0.014286,0.014069
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,BOSCHLTD.NS,0.0,0.009524,0.0
+2025-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,LUPIN.NS,2.0,0.004762,0.00369
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,75.0,0.05,0.049423
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRIS.NS,135.0,0.05,0.049687
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,3.0,0.05,0.037831
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TRENT.NS,10.0,0.05,0.04814
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),M&M.NS,20.0,0.05,0.048996
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POLICYBZR.NS,34.0,0.05,0.049374
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUPRIYA.NS,82.0,0.05,0.049476
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,4.0,0.05,0.043376
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,41.0,0.05,0.049555
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,10.0,0.05,0.046243
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KALYANKJIL.NS,120.0,0.05,0.049925
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),OFSS.NS,7.0,0.05,0.049313
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,33.0,0.05,0.049652
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LUPIN.NS,29.0,0.05,0.049671
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VEDL.NS,147.0,0.05,0.049984
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTFOODS.NS,157.0,0.05,0.049933
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,52.0,0.05,0.04945
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,40.0,0.05,0.049001
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VOLTAS.NS,47.0,0.05,0.049385
+2025-02-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLPHARMA.NS,61.0,0.05,0.049532
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,PGEL.NS,133.0,0.095238,0.095213
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRIS.NS,226.0,0.090476,0.090364
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,6.0,0.085714,0.082196
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,TRENT.NS,15.0,0.080952,0.078447
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,M&M.NS,28.0,0.07619,0.074519
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,POLICYBZR.NS,45.0,0.071429,0.070992
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,101.0,0.066667,0.066203
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,5.0,0.061905,0.058902
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,GLENMARK.NS,43.0,0.057143,0.056461
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,10.0,0.052381,0.050237
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,KALYANKJIL.NS,105.0,0.047619,0.047457
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,OFSS.NS,5.0,0.042857,0.038266
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,COROMANDEL.NS,23.0,0.038095,0.037595
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,LUPIN.NS,17.0,0.033333,0.031632
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,VEDL.NS,77.0,0.028571,0.028443
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTFOODS.NS,68.0,0.02381,0.023495
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,MOTILALOFS.NS,32.0,0.019048,0.018535
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,13.0,0.014286,0.01343
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,NAUKRI.NS,6.0,0.009524,0.008324
+2025-02-01,Strategy 3 - Top-X Rank-Weighted Momentum,CDSL.NS,4.0,0.004762,0.004702
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRIS.NS,142.0,0.05,0.050016
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,68.0,0.05,0.049392
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,152.0,0.05,0.049817
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,3.0,0.05,0.038005
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,26.0,0.05,0.049431
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,33.0,0.05,0.049567
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,120.0,0.05,0.049852
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,10.0,0.05,0.049448
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTFOODS.NS,165.0,0.05,0.049844
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VEDL.NS,150.0,0.05,0.049996
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,25.0,0.05,0.04843
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,43.0,0.05,0.049844
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHARTIARTL.NS,35.0,0.05,0.049262
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,4.0,0.05,0.041108
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUPRIYA.NS,93.0,0.05,0.049974
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),M&M.NS,21.0,0.05,0.049044
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLPHARMA.NS,61.0,0.05,0.04977
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POLICYBZR.NS,37.0,0.05,0.049065
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,55.0,0.05,0.049746
+2025-03-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LUPIN.NS,29.0,0.05,0.049584
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,IRIS.NS,243.0,0.095238,0.095154
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,PGEL.NS,112.0,0.090476,0.090442
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,235.0,0.085714,0.085625
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,5.0,0.080952,0.070418
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,36.0,0.07619,0.076091
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,COROMANDEL.NS,42.0,0.071429,0.070134
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,SARDAEN.NS,144.0,0.066667,0.066507
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,11.0,0.061905,0.06047
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,LTFOODS.NS,170.0,0.057143,0.057092
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,VEDL.NS,141.0,0.052381,0.052247
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,22.0,0.047619,0.047381
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,GLENMARK.NS,33.0,0.042857,0.042526
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,24.0,0.038095,0.037554
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,2.0,0.033333,0.022851
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,47.0,0.028571,0.028077
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,PAYTM.NS,33.0,0.02381,0.023373
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,M&M.NS,7.0,0.019048,0.018175
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,ZENSARTECH.NS,19.0,0.014286,0.013632
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLPHARMA.NS,10.0,0.009524,0.009071
+2025-03-03,Strategy 3 - Top-X Rank-Weighted Momentum,POLICYBZR.NS,3.0,0.004762,0.004423
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,65.0,0.05,0.049567
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,169.0,0.05,0.049994
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRIS.NS,162.0,0.05,0.04982
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,117.0,0.05,0.04999
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,10.0,0.05,0.047498
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,4.0,0.05,0.043942
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,30.0,0.05,0.049265
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTFOODS.NS,158.0,0.05,0.049928
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,25.0,0.05,0.048631
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,23.0,0.05,0.050024
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GREAVESCOT.NS,285.0,0.05,0.049895
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),VEDL.NS,143.0,0.05,0.049973
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUPRIYA.NS,82.0,0.05,0.049866
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,56.0,0.05,0.04962
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,85.0,0.05,0.049456
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLFOOD.NS,91.0,0.05,0.04997
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),M&M.NS,23.0,0.05,0.049914
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHARTIARTL.NS,35.0,0.05,0.048988
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLPHARMA.NS,68.0,0.05,0.049678
+2025-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,39.0,0.05,0.049876
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,PGEL.NS,111.0,0.095238,0.094575
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,273.0,0.090476,0.090234
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,IRIS.NS,249.0,0.085714,0.085558
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,SARDAEN.NS,169.0,0.080952,0.080679
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,14.0,0.07619,0.074298
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,5.0,0.071429,0.061371
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,COROMANDEL.NS,36.0,0.066667,0.066054
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTFOODS.NS,175.0,0.061905,0.061788
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,26.0,0.057143,0.056509
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,21.0,0.052381,0.051032
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,GREAVESCOT.NS,243.0,0.047619,0.047533
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,VEDL.NS,109.0,0.042857,0.04256
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,56.0,0.038095,0.03805
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,33.0,0.033333,0.03267
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,FORTIS.NS,43.0,0.028571,0.027954
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLFOOD.NS,38.0,0.02381,0.023315
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,M&M.NS,7.0,0.019048,0.016973
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,9.0,0.014286,0.014075
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,PAYTM.NS,13.0,0.009524,0.009441
+2025-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLPHARMA.NS,5.0,0.004762,0.004081
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,70.0,0.05,0.04993
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IRIS.NS,236.0,0.05,0.049885
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,167.0,0.05,0.049878
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,26.0,0.05,0.048409
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,133.0,0.05,0.049666
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,19.0,0.05,0.04851
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,9.0,0.05,0.045404
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PAYTM.NS,69.0,0.05,0.050012
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJHLDNG.NS,5.0,0.05,0.048962
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUPRIYA.NS,92.0,0.05,0.049543
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,3.0,0.05,0.041259
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,27.0,0.05,0.048607
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTFOODS.NS,174.0,0.05,0.049787
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLFOOD.NS,83.0,0.05,0.049443
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PERSISTENT.NS,11.0,0.05,0.048614
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,87.0,0.05,0.04984
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,43.0,0.05,0.049538
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHARTIARTL.NS,32.0,0.05,0.048579
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GREAVESCOT.NS,305.0,0.05,0.049883
+2025-05-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),M&M.NS,20.0,0.05,0.048478
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,PGEL.NS,117.0,0.095238,0.094676
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,IRIS.NS,377.0,0.090476,0.090404
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,253.0,0.085714,0.085725
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,COROMANDEL.NS,38.0,0.080952,0.080266
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,SARDAEN.NS,180.0,0.07619,0.076255
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,24.0,0.071429,0.069515
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,11.0,0.066667,0.062956
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,PAYTM.NS,75.0,0.061905,0.061671
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJHLDNG.NS,5.0,0.057143,0.055546
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,85.0,0.052381,0.051929
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,3.0,0.047619,0.046807
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,21.0,0.042857,0.042889
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,LTFOODS.NS,117.0,0.038095,0.037979
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLFOOD.NS,49.0,0.033333,0.033114
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,PERSISTENT.NS,5.0,0.028571,0.025069
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,AMBER.NS,4.0,0.02381,0.023358
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,COFORGE.NS,13.0,0.019048,0.017908
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,GODFRYPHLP.NS,5.0,0.014286,0.012649
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,ERIS.NS,7.0,0.009524,0.009521
+2025-05-02,Strategy 3 - Top-X Rank-Weighted Momentum,AVANTIFEED.NS,5.0,0.004762,0.004048
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,80.0,0.05,0.049785
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,161.0,0.05,0.04994
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PAYTM.NS,69.0,0.05,0.049545
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,27.0,0.05,0.049815
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ERIS.NS,40.0,0.05,0.049976
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIXON.NS,4.0,0.05,0.047376
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,9.0,0.05,0.047673
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,21.0,0.05,0.04816
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JUBLFOOD.NS,95.0,0.05,0.050035
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHOLAHLDNG.NS,32.0,0.05,0.04855
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHAMBLFERT.NS,116.0,0.05,0.049837
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTFOODS.NS,142.0,0.05,0.049993
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHARTIARTL.NS,34.0,0.05,0.049601
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,143.0,0.05,0.049701
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,17.0,0.05,0.04727
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,87.0,0.05,0.049512
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUPRIYA.NS,85.0,0.05,0.049577
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJHLDNG.NS,4.0,0.05,0.042467
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PERSISTENT.NS,11.0,0.05,0.049559
+2025-06-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,42.0,0.05,0.049268
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,PGEL.NS,135.0,0.095238,0.095151
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,257.0,0.090476,0.090288
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,PAYTM.NS,105.0,0.085714,0.08539
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,COROMANDEL.NS,38.0,0.080952,0.079406
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,ERIS.NS,53.0,0.07619,0.074997
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,DIXON.NS,5.0,0.071429,0.067071
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,11.0,0.066667,0.065992
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,GODFRYPHLP.NS,23.0,0.061905,0.05974
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLFOOD.NS,95.0,0.057143,0.056668
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,CHOLAHLDNG.NS,30.0,0.052381,0.05155
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,CHAMBLFERT.NS,97.0,0.047619,0.047199
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,35.0,0.042857,0.042067
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,LTFOODS.NS,95.0,0.038095,0.03788
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,20.0,0.033333,0.033045
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,SARDAEN.NS,72.0,0.028571,0.028342
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,MAZDOCK.NS,7.0,0.02381,0.022045
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,FORTIS.NS,29.0,0.019048,0.018692
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,RADICO.NS,6.0,0.014286,0.013962
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,14.0,0.009524,0.009248
+2025-06-02,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJHLDNG.NS,0.0,0.004762,0.0
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,189.0,0.05,0.049809
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PAYTM.NS,71.0,0.05,0.04982
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,86.0,0.05,0.049943
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASTERDM.NS,109.0,0.05,0.049988
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,146.0,0.05,0.049727
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),WELCORP.NS,70.0,0.05,0.049816
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,36.0,0.05,0.049471
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOLARINDS.NS,3.0,0.05,0.040731
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,26.0,0.05,0.049732
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,9.0,0.05,0.046929
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ERIS.NS,38.0,0.05,0.048997
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUPRIYA.NS,91.0,0.05,0.049754
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJHLDNG.NS,4.0,0.05,0.043575
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,22.0,0.05,0.049719
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTFOODS.NS,135.0,0.05,0.049966
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHARTIARTL.NS,33.0,0.05,0.050012
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,82.0,0.05,0.050037
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MAZDOCK.NS,20.0,0.05,0.049972
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PERSISTENT.NS,10.0,0.05,0.046221
+2025-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHOLAHLDNG.NS,29.0,0.05,0.04875
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,317.0,0.095238,0.095091
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,PAYTM.NS,113.0,0.090476,0.090253
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,PGEL.NS,129.0,0.085714,0.085271
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASTERDM.NS,155.0,0.080952,0.08091
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SARDAEN.NS,196.0,0.07619,0.075985
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,WELCORP.NS,88.0,0.071429,0.071283
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,42.0,0.066667,0.065695
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOLARINDS.NS,4.0,0.061905,0.061816
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,COFORGE.NS,34.0,0.057143,0.057003
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,COROMANDEL.NS,24.0,0.052381,0.052252
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,8.0,0.047619,0.047481
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,ERIS.NS,29.0,0.042857,0.042562
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,61.0,0.038095,0.037962
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJHLDNG.NS,2.0,0.033333,0.024799
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,GODFRYPHLP.NS,11.0,0.028571,0.028296
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTFOODS.NS,56.0,0.02381,0.023592
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,CEATLTD.NS,6.0,0.019048,0.019017
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,8.0,0.014286,0.0138
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,FORTIS.NS,13.0,0.009524,0.009029
+2025-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLPHARMA.NS,4.0,0.004762,0.004206
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,41.0,0.05,0.049266
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASTERDM.NS,105.0,0.05,0.049924
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,74.0,0.05,0.049943
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,193.0,0.05,0.050016
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHARTIARTL.NS,33.0,0.05,0.049015
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PAYTM.NS,58.0,0.05,0.049814
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,21.0,0.05,0.048953
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOLARINDS.NS,4.0,0.05,0.0446
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,24.0,0.05,0.048852
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RELINFRA.NS,204.0,0.05,0.049965
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTFOODS.NS,132.0,0.05,0.049996
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,9.0,0.05,0.04647
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SUPRIYA.NS,96.0,0.05,0.049668
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJHLDNG.NS,4.0,0.05,0.042924
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ERIS.NS,35.0,0.05,0.04947
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SARDAEN.NS,143.0,0.05,0.049911
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),WELCORP.NS,68.0,0.05,0.049512
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,23.0,0.05,0.048073
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,78.0,0.05,0.049729
+2025-08-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CHOLAHLDNG.NS,33.0,0.05,0.048911
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,70.0,0.095238,0.094308
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASTERDM.NS,169.0,0.090476,0.090093
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,FORTIS.NS,113.0,0.085714,0.085508
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,279.0,0.080952,0.081067
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,45.0,0.07619,0.07494
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,PAYTM.NS,74.0,0.071429,0.071259
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,GODFRYPHLP.NS,25.0,0.066667,0.065341
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOLARINDS.NS,4.0,0.061905,0.050006
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,25.0,0.057143,0.057055
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,RELINFRA.NS,191.0,0.052381,0.052452
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTFOODS.NS,112.0,0.047619,0.047562
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,JKCEMENT.NS,7.0,0.042857,0.040675
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,6.0,0.038095,0.034735
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,COFORGE.NS,21.0,0.033333,0.032059
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,JUBLPHARMA.NS,27.0,0.028571,0.027925
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,SUPRIYA.NS,41.0,0.02381,0.023784
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJFINANCE.NS,24.0,0.019048,0.018594
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJHLDNG.NS,1.0,0.014286,0.012032
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,HDFCBANK.NS,10.0,0.009524,0.008728
+2025-08-01,Strategy 3 - Top-X Rank-Weighted Momentum,ERIS.NS,3.0,0.004762,0.004754
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PAYTM.NS,51.0,0.05,0.049325
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,186.0,0.05,0.049981
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NAVINFLUOR.NS,13.0,0.05,0.048131
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RAMCOCEM.NS,60.0,0.05,0.049792
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,68.0,0.05,0.05001
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JKCEMENT.NS,8.0,0.05,0.044629
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,42.0,0.05,0.049982
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),AMBER.NS,8.0,0.05,0.046776
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASTERDM.NS,104.0,0.05,0.04965
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,44.0,0.05,0.049197
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,10.0,0.05,0.048929
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHARTIARTL.NS,33.0,0.05,0.049329
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,27.0,0.05,0.04971
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,23.0,0.05,0.048687
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJAJHLDNG.NS,5.0,0.05,0.049996
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ERIS.NS,34.0,0.05,0.048642
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RELINFRA.NS,232.0,0.05,0.049905
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOLARINDS.NS,4.0,0.05,0.044461
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PGEL.NS,115.0,0.05,0.049991
+2025-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,17.0,0.05,0.049338
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,PAYTM.NS,89.0,0.095238,0.094387
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,307.0,0.090476,0.090459
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,NAVINFLUOR.NS,21.0,0.085714,0.085255
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,RAMCOCEM.NS,89.0,0.080952,0.080989
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,FORTIS.NS,94.0,0.07619,0.075806
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,JKCEMENT.NS,11.0,0.071429,0.067289
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,51.0,0.066667,0.066552
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,AMBER.NS,9.0,0.061905,0.057703
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASTERDM.NS,109.0,0.057143,0.05706
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,42.0,0.052381,0.051495
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,HDFCBANK.NS,58.0,0.047619,0.047606
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,EIDPARRY.NS,44.0,0.042857,0.04272
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,RADICO.NS,15.0,0.038095,0.037512
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,MAXHEALTH.NS,32.0,0.033333,0.032398
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,5.0,0.028571,0.026827
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,14.0,0.02381,0.022948
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,COROMANDEL.NS,9.0,0.019048,0.01817
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ICICIBANK.NS,11.0,0.014286,0.0134
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,0.0,0.009524,0.0
+2025-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJFINANCE.NS,6.0,0.004762,0.0046
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,188.0,0.05,0.049921
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,185.0,0.05,0.049835
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JKCEMENT.NS,9.0,0.05,0.046147
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,63.0,0.05,0.04992
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PAYTM.NS,54.0,0.05,0.04957
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,43.0,0.05,0.049401
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASTERDM.NS,98.0,0.05,0.049898
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NAVINFLUOR.NS,13.0,0.05,0.049245
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,27.0,0.05,0.049222
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EICHERMOT.NS,8.0,0.05,0.045273
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KRBL.NS,180.0,0.05,0.049942
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ERIS.NS,38.0,0.05,0.04894
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),AMBER.NS,7.0,0.05,0.046577
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,19.0,0.05,0.047713
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RADICO.NS,21.0,0.05,0.04938
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DALBHARAT.NS,27.0,0.05,0.048889
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EIDPARRY.NS,59.0,0.05,0.049591
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RAMCOCEM.NS,62.0,0.05,0.050003
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,39.0,0.05,0.049653
+2025-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,18.0,0.05,0.04884
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,331.0,0.095238,0.095304
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,310.0,0.090476,0.090548
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,JKCEMENT.NS,15.0,0.085714,0.083397
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,FORTIS.NS,94.0,0.080952,0.080764
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,PAYTM.NS,76.0,0.07619,0.075648
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,57.0,0.071429,0.071006
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASTERDM.NS,120.0,0.066667,0.066251
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,NAVINFLUOR.NS,15.0,0.061905,0.061612
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,COROMANDEL.NS,28.0,0.057143,0.055349
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,EICHERMOT.NS,8.0,0.052381,0.04909
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,KRBL.NS,158.0,0.047619,0.047535
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,ERIS.NS,30.0,0.042857,0.041895
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,AMBER.NS,5.0,0.038095,0.036074
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,12.0,0.033333,0.032675
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,RADICO.NS,11.0,0.028571,0.028047
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,DALBHARAT.NS,12.0,0.02381,0.023561
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,EIDPARRY.NS,20.0,0.019048,0.018228
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,MANAPPURAM.NS,57.0,0.014286,0.014163
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,BEL.NS,26.0,0.009524,0.009207
+2025-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,7.0,0.004762,0.00455
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,229.0,0.05,0.049994
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MANAPPURAM.NS,239.0,0.05,0.050028
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,238.0,0.05,0.049983
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EICHERMOT.NS,9.0,0.05,0.049114
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,62.0,0.05,0.049746
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,179.0,0.05,0.049823
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,20.0,0.05,0.049478
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MARUTI.NS,4.0,0.05,0.049751
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JKCEMENT.NS,10.0,0.05,0.049073
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,195.0,0.05,0.049963
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJFINANCE.NS,61.0,0.05,0.049315
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,75.0,0.05,0.049857
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASTERDM.NS,94.0,0.05,0.049846
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NAVINFLUOR.NS,11.0,0.05,0.049069
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,41.0,0.05,0.049837
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PAYTM.NS,49.0,0.05,0.049969
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),COROMANDEL.NS,30.0,0.05,0.049537
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DALBHARAT.NS,30.0,0.05,0.048821
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GODFRYPHLP.NS,21.0,0.05,0.04993
+2025-11-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EIDPARRY.NS,59.0,0.05,0.049874
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,402.0,0.095238,0.095384
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,MANAPPURAM.NS,398.0,0.090476,0.090544
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,LTF.NS,376.0,0.085714,0.085822
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,EICHERMOT.NS,13.0,0.080952,0.077102
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,FORTIS.NS,87.0,0.07619,0.075866
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,236.0,0.071429,0.071392
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,24.0,0.066667,0.064529
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,MARUTI.NS,4.0,0.061905,0.054071
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,JKCEMENT.NS,10.0,0.057143,0.053334
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,188.0,0.052381,0.052352
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,BAJFINANCE.NS,54.0,0.047619,0.047446
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,59.0,0.042857,0.042627
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,BEL.NS,105.0,0.038095,0.038097
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,REDINGTON.NS,156.0,0.033333,0.033268
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,9.0,0.028571,0.026851
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,GMDCLTD.NS,47.0,0.02381,0.02346
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,TATAINVEST.NS,28.0,0.019048,0.01895
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,ASTERDM.NS,24.0,0.014286,0.013832
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,ABCAPITAL.NS,34.0,0.009524,0.009439
+2025-11-03,Strategy 3 - Top-X Rank-Weighted Momentum,ASHOKLEY.NS,40.0,0.004762,0.004729
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,242.0,0.05,0.050037
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,205.0,0.05,0.049863
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,204.0,0.05,0.049922
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MANAPPURAM.NS,224.0,0.05,0.049878
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MARUTI.NS,4.0,0.05,0.049551
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJFINANCE.NS,61.0,0.05,0.049475
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,17.0,0.05,0.049896
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1623.0,0.05,0.050038
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASTERDM.NS,95.0,0.05,0.04985
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ABCAPITAL.NS,178.0,0.05,0.049911
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,74.0,0.05,0.049657
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NYKAA.NS,239.0,0.05,0.04999
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),JKCEMENT.NS,11.0,0.05,0.049373
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EICHERMOT.NS,9.0,0.05,0.049262
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,18.0,0.05,0.049875
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FORTIS.NS,69.0,0.05,0.049619
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASIANHOTNR.NS,191.0,0.05,0.049816
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,43.0,0.05,0.049036
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NAVINFLUOR.NS,11.0,0.05,0.049807
+2025-12-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),PAYTM.NS,47.0,0.05,0.049144
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,427.0,0.095238,0.095299
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTF.NS,344.0,0.090476,0.090317
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,324.0,0.085714,0.085584
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,MANAPPURAM.NS,337.0,0.080952,0.080999
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,MARUTI.NS,5.0,0.07619,0.066857
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJFINANCE.NS,81.0,0.071429,0.070913
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,21.0,0.066667,0.06653
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOUTHBANK.NS,1862.0,0.061905,0.061965
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASTERDM.NS,100.0,0.057143,0.056641
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ABCAPITAL.NS,173.0,0.052381,0.052361
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,65.0,0.047619,0.047081
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,NYKAA.NS,190.0,0.042857,0.042897
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,JKCEMENT.NS,7.0,0.038095,0.033914
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,EICHERMOT.NS,5.0,0.033333,0.029541
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,9.0,0.028571,0.026917
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,FORTIS.NS,30.0,0.02381,0.023286
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,152.0,0.019048,0.019046
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHARTIARTL.NS,8.0,0.014286,0.014125
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASIANHOTNR.NS,33.0,0.009524,0.00929
+2025-12-01,Strategy 3 - Top-X Rank-Weighted Momentum,SBILIFE.NS,2.0,0.004762,0.003321
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,204.0,0.05,0.050014
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,234.0,0.05,0.049848
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ABCAPITAL.NS,178.0,0.05,0.049915
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,16.0,0.05,0.047284
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,203.0,0.05,0.049834
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MARUTI.NS,3.0,0.05,0.038886
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NYKAA.NS,240.0,0.05,0.04986
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),AUBANK.NS,64.0,0.05,0.049849
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,77.0,0.05,0.04953
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NAVINFLUOR.NS,10.0,0.05,0.046589
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EICHERMOT.NS,8.0,0.05,0.045414
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HEROMOTOCO.NS,11.0,0.05,0.048107
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SBILIFE.NS,31.0,0.05,0.049385
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUB.NS,296.0,0.05,0.049882
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,17.0,0.05,0.049631
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UPL.NS,80.0,0.05,0.049525
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BAJFINANCE.NS,65.0,0.05,0.050048
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SOUTHBANK.NS,1682.0,0.05,0.050037
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MANAPPURAM.NS,207.0,0.05,0.050006
+2026-01-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,41.0,0.05,0.049677
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTF.NS,360.0,0.095238,0.095267
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,393.0,0.090476,0.090366
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,ABCAPITAL.NS,283.0,0.085714,0.085659
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,25.0,0.080952,0.079746
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,287.0,0.07619,0.076048
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,MARUTI.NS,5.0,0.071429,0.069954
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,NYKAA.NS,297.0,0.066667,0.066599
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,AUBANK.NS,73.0,0.061905,0.061373
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,82.0,0.057143,0.056934
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,NAVINFLUOR.NS,10.0,0.052381,0.050288
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,EICHERMOT.NS,7.0,0.047619,0.042892
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,HEROMOTOCO.NS,9.0,0.042857,0.042485
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,SBILIFE.NS,22.0,0.038095,0.03783
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,CUB.NS,183.0,0.033333,0.033287
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,9.0,0.028571,0.028361
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,UPL.NS,35.0,0.02381,0.023387
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJFINANCE.NS,22.0,0.019048,0.018284
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,CANBK.NS,112.0,0.014286,0.014221
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,SOUTHBANK.NS,296.0,0.009524,0.009505
+2026-01-01,Strategy 3 - Top-X Rank-Weighted Momentum,MANAPPURAM.NS,18.0,0.004762,0.004694
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,215.0,0.05,0.049934
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ABCAPITAL.NS,181.0,0.05,0.049853
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,204.0,0.05,0.049796
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SHRIRAMFIN.NS,60.0,0.05,0.049685
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASHOKLEY.NS,318.0,0.05,0.049901
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,16.0,0.05,0.048407
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,72.0,0.05,0.04999
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,26.0,0.05,0.048265
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,17.0,0.05,0.049337
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,41.0,0.05,0.049453
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUB.NS,281.0,0.05,0.049887
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),AUBANK.NS,61.0,0.05,0.049458
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NYKAA.NS,247.0,0.05,0.049853
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SBILIFE.NS,30.0,0.05,0.049697
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MARUTI.NS,4.0,0.05,0.047464
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EICHERMOT.NS,8.0,0.05,0.04531
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HEROMOTOCO.NS,11.0,0.05,0.049632
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,239.0,0.05,0.049908
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MANAPPURAM.NS,223.0,0.05,0.049842
+2026-02-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),UPL.NS,89.0,0.05,0.049613
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,LTF.NS,378.0,0.095238,0.095289
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,ABCAPITAL.NS,303.0,0.090476,0.090584
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,324.0,0.085714,0.085845
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,SHRIRAMFIN.NS,90.0,0.080952,0.080893
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,ASHOKLEY.NS,448.0,0.07619,0.076306
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,21.0,0.071429,0.068962
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,88.0,0.066667,0.066318
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,30.0,0.061905,0.060448
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,18.0,0.057143,0.056701
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,CANBK.NS,420.0,0.052381,0.052351
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,36.0,0.047619,0.047132
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,CUB.NS,222.0,0.042857,0.042779
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,10.0,0.038095,0.03623
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,AUBANK.NS,37.0,0.033333,0.032562
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,NYKAA.NS,130.0,0.028571,0.02848
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,SBILIFE.NS,13.0,0.02381,0.023375
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,35.0,0.019048,0.018754
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,BPCL.NS,44.0,0.014286,0.014178
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,MARUTI.NS,0.0,0.009524,0.0
+2026-02-02,Strategy 3 - Top-X Rank-Weighted Momentum,SBIN.NS,5.0,0.004762,0.004573
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,108.0,0.05,0.049783
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ABCAPITAL.NS,183.0,0.05,0.050038
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,224.0,0.05,0.04982
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,25.0,0.05,0.0497
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NATIONALUM.NS,179.0,0.05,0.04987
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CANBK.NS,418.0,0.05,0.04994
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),AUBANK.NS,68.0,0.05,0.049928
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASHOKLEY.NS,309.0,0.05,0.049907
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEL.NS,138.0,0.05,0.049816
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,64.0,0.05,0.049397
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUB.NS,302.0,0.05,0.049934
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,197.0,0.05,0.050016
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SHRIRAMFIN.NS,58.0,0.05,0.049441
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MUTHOOTFIN.NS,18.0,0.05,0.04917
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EICHERMOT.NS,7.0,0.05,0.044369
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,16.0,0.05,0.049488
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,266.0,0.05,0.049856
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SBILIFE.NS,30.0,0.05,0.049888
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HEROMOTOCO.NS,11.0,0.05,0.049536
+2026-03-02,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,40.0,0.05,0.049122
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,193.0,0.095238,0.095125
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,ABCAPITAL.NS,309.0,0.090476,0.090342
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,LTF.NS,360.0,0.085714,0.085612
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,38.0,0.080952,0.080775
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,256.0,0.07619,0.076261
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,CANBK.NS,559.0,0.071429,0.071411
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,AUBANK.NS,85.0,0.066667,0.066732
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,ASHOKLEY.NS,358.0,0.061905,0.061825
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,BEL.NS,148.0,0.057143,0.057126
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,VEDL.NS,89.0,0.052381,0.052374
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,57.0,0.047619,0.047041
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,CUB.NS,242.0,0.042857,0.042784
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,GMDCLTD.NS,81.0,0.038095,0.038105
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,SBIN.NS,32.0,0.033333,0.032704
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,105.0,0.028571,0.028505
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,SHRIRAMFIN.NS,26.0,0.02381,0.023698
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,FEDERALBNK.NS,75.0,0.019048,0.019031
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,4.0,0.014286,0.011683
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,HINDALCO.NS,12.0,0.009524,0.009445
+2026-03-02,Strategy 3 - Top-X Rank-Weighted Momentum,SJS.NS,3.0,0.004762,0.004355
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASHOKLEY.NS,371.0,0.05,0.049959
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,23.0,0.05,0.049941
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,228.0,0.05,0.049898
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CANBK.NS,454.0,0.05,0.04999
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SBIN.NS,56.0,0.05,0.049264
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,189.0,0.05,0.049887
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,191.0,0.05,0.049931
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ABCAPITAL.NS,185.0,0.05,0.049803
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,119.0,0.05,0.049894
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,65.0,0.05,0.049724
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),AUBANK.NS,65.0,0.05,0.049597
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,37.0,0.05,0.050021
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NATIONALUM.NS,143.0,0.05,0.049993
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TVSMOTOR.NS,16.0,0.05,0.048826
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HEROMOTOCO.NS,11.0,0.05,0.049621
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),EICHERMOT.NS,8.0,0.05,0.047744
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUB.NS,303.0,0.05,0.050008
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEL.NS,135.0,0.05,0.049709
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SHRIRAMFIN.NS,61.0,0.05,0.049343
+2026-04-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SBILIFE.NS,30.0,0.05,0.048734
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,ASHOKLEY.NS,668.0,0.095238,0.095296
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,39.0,0.090476,0.089712
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTF.NS,370.0,0.085714,0.085785
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,CANBK.NS,694.0,0.080952,0.080955
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,SBIN.NS,81.0,0.07619,0.07549
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,255.0,0.071429,0.071306
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,SJS.NS,43.0,0.066667,0.065541
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,223.0,0.061905,0.06176
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,ABCAPITAL.NS,200.0,0.057143,0.057039
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,118.0,0.052381,0.052413
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,58.0,0.047619,0.047004
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,AUBANK.NS,53.0,0.042857,0.042843
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,26.0,0.038095,0.037238
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,90.0,0.033333,0.033333
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,6.0,0.028571,0.025989
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,TVSMOTOR.NS,7.0,0.02381,0.02263
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,POLYCAB.NS,2.0,0.019048,0.013393
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,FEDERALBNK.NS,57.0,0.014286,0.014247
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,0.0,0.009524,0.0
+2026-04-01,Strategy 3 - Top-X Rank-Weighted Momentum,HEROMOTOCO.NS,0.0,0.004762,0.0
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NATIONALUM.NS,152.0,0.05,0.049854
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,33.0,0.05,0.049279
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,20.0,0.05,0.049571
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,11.0,0.05,0.047888
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,112.0,0.05,0.049901
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,4.0,0.05,0.041416
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,38.0,0.05,0.049171
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,207.0,0.05,0.049946
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,71.0,0.05,0.049398
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,24.0,0.05,0.048339
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ABCAPITAL.NS,174.0,0.05,0.050006
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,178.0,0.05,0.049847
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASHOKLEY.NS,378.0,0.05,0.049955
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SBIN.NS,57.0,0.05,0.049322
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,217.0,0.05,0.04981
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HEROMOTOCO.NS,11.0,0.05,0.046561
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CANBK.NS,461.0,0.05,0.050024
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BEL.NS,139.0,0.05,0.04978
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUB.NS,300.0,0.05,0.050032
+2026-05-04,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),AUBANK.NS,59.0,0.05,0.049974
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,280.0,0.095238,0.095259
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,58.0,0.090476,0.08984
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,33.0,0.085714,0.084841
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,17.0,0.080952,0.076766
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,165.0,0.07619,0.076255
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,6.0,0.071429,0.064439
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,GESHIP.NS,49.0,0.066667,0.065767
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,247.0,0.061905,0.061819
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,79.0,0.057143,0.057012
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,GLENMARK.NS,25.0,0.052381,0.05223
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,1.0,0.047619,0.029099
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,CCL.NS,44.0,0.042857,0.042761
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,SJS.NS,24.0,0.038095,0.037873
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,ABCAPITAL.NS,112.0,0.033333,0.033387
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,9.0,0.028571,0.026475
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,HINDALCO.NS,26.0,0.02381,0.023182
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,TATASTEEL.NS,106.0,0.019048,0.018964
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,TORNTPHARM.NS,3.0,0.014286,0.010863
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,32.0,0.009524,0.009295
+2026-05-04,Strategy 3 - Top-X Rank-Weighted Momentum,GMDCLTD.NS,7.0,0.004762,0.004375
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NATIONALUM.NS,140.0,0.05,0.049795
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,20.0,0.05,0.049613
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,34.0,0.05,0.049744
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,10.0,0.05,0.049704
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,110.0,0.05,0.049964
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDALCO.NS,53.0,0.05,0.049935
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIPOWER.NS,243.0,0.05,0.049898
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,26.0,0.05,0.049826
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,211.0,0.05,0.04987
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,1.0,0.05,0.032428
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GMDCLTD.NS,90.0,0.05,0.049758
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,42.0,0.05,0.049416
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),INDIANB.NS,72.0,0.05,0.049647
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,208.0,0.05,0.049949
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SBIN.NS,61.0,0.05,0.0494
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,173.0,0.05,0.049894
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),AUBANK.NS,60.0,0.05,0.049706
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ABCAPITAL.NS,162.0,0.05,0.049762
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,4.0,0.05,0.043833
+2026-06-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ASHOKLEY.NS,386.0,0.05,0.04995
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,264.0,0.095238,0.095012
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,36.0,0.090476,0.090362
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,57.0,0.085714,0.084384
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,16.0,0.080952,0.080468
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,165.0,0.07619,0.075834
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,HINDALCO.NS,75.0,0.071429,0.0715
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,321.0,0.066667,0.066696
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,GLENMARK.NS,31.0,0.061905,0.060112
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,LTF.NS,239.0,0.057143,0.057158
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,1.0,0.052381,0.032812
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,GMDCLTD.NS,85.0,0.047619,0.04755
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,GESHIP.NS,36.0,0.042857,0.042858
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,MUTHOOTFIN.NS,13.0,0.038095,0.036713
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,FEDERALBNK.NS,136.0,0.033333,0.033334
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,INDIANB.NS,40.0,0.028571,0.027909
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,98.0,0.02381,0.023813
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,SBIN.NS,23.0,0.019048,0.018847
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,49.0,0.014286,0.014299
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,AUBANK.NS,11.0,0.009524,0.009221
+2026-06-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,13.0,0.004762,0.004523
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NATIONALUM.NS,176.0,0.05,0.049948
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIPOWER.NS,265.0,0.05,0.049923
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,10.0,0.05,0.047551
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDALCO.NS,62.0,0.05,0.049429
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HFCL.NS,278.0,0.05,0.050039
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,29.0,0.05,0.048591
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,1.0,0.05,0.029421
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IDEA.NS,4111.0,0.05,0.050046
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,20.0,0.05,0.048013
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,119.0,0.05,0.050013
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POLYCAB.NS,5.0,0.05,0.042008
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TORNTPHARM.NS,12.0,0.05,0.046946
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHEL.NS,143.0,0.05,0.049933
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,161.0,0.05,0.049907
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,190.0,0.05,0.050019
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,40.0,0.05,0.049463
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,3.0,0.05,0.039891
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GMDCLTD.NS,103.0,0.05,0.049617
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GLENMARK.NS,27.0,0.05,0.049877
+2026-07-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),KARURVYSYA.NS,201.0,0.05,0.049812
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,320.0,0.095238,0.095181
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,458.0,0.090476,0.090431
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,17.0,0.085714,0.084724
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,HINDALCO.NS,97.0,0.080952,0.08105
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,HFCL.NS,404.0,0.07619,0.076215
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,40.0,0.071429,0.070245
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,2.0,0.066667,0.061671
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,IDEA.NS,4859.0,0.061905,0.061996
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,22.0,0.057143,0.055354
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,119.0,0.052381,0.052417
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,POLYCAB.NS,5.0,0.047619,0.044028
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,TORNTPHARM.NS,10.0,0.042857,0.041003
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,104.0,0.038095,0.038061
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SJS.NS,16.0,0.033333,0.031648
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,75.0,0.028571,0.028307
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SAIL.NS,157.0,0.02381,0.023705
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,RBLBANK.NS,58.0,0.019048,0.018843
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,FEDERALBNK.NS,49.0,0.014286,0.014176
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,NLCINDIA.NS,33.0,0.009524,0.009354
+2026-07-01,Strategy 3 - Top-X Rank-Weighted Momentum,SCHNEIDER.NS,3.0,0.004762,0.003668
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HFCL.NS,299.0,0.05,0.049917
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APOLLO.NS,149.0,0.05,0.049772
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FEDERALBNK.NS,164.0,0.05,0.049846
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,28.0,0.05,0.049653
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIPOWER.NS,278.0,0.05,0.049957
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,21.0,0.05,0.04799
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SJS.NS,24.0,0.05,0.049486
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,10.0,0.05,0.046886
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IDEA.NS,4532.0,0.05,0.050026
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NATIONALUM.NS,165.0,0.05,0.049984
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHEL.NS,144.0,0.05,0.049971
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,1.0,0.05,0.027297
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TORNTPHARM.NS,11.0,0.05,0.048998
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,119.0,0.05,0.049789
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,4.0,0.05,0.048702
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),LTF.NS,187.0,0.05,0.049907
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POLYCAB.NS,6.0,0.05,0.046427
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,43.0,0.05,0.049017
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDALCO.NS,59.0,0.05,0.049558
+2026-08-03,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,155.0,0.05,0.049779
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,HFCL.NS,541.0,0.095238,0.095255
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,APOLLO.NS,257.0,0.090476,0.090542
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,FEDERALBNK.NS,267.0,0.085714,0.085588
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,43.0,0.080952,0.08042
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,402.0,0.07619,0.076189
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,29.0,0.071429,0.069894
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,SJS.NS,30.0,0.066667,0.065239
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,CUMMINSIND.NS,12.0,0.061905,0.059338
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,IDEA.NS,4915.0,0.057143,0.057219
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,MAHABANK.NS,732.0,0.052381,0.052401
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,149.0,0.047619,0.047605
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,SHRIRAMFIN.NS,45.0,0.042857,0.042603
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,ARVIND.NS,82.0,0.038095,0.037693
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,WELCORP.NS,22.0,0.033333,0.032916
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,78.0,0.028571,0.028547
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,0.0,0.02381,0.0
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,NYKAA.NS,63.0,0.019048,0.018885
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,AUBANK.NS,15.0,0.014286,0.014149
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,TORNTPHARM.NS,2.0,0.009524,0.009396
+2026-08-03,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,10.0,0.004762,0.004413
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HFCL.NS,245.0,0.05,0.049909
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FEDERALBNK.NS,176.0,0.05,0.049842
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHEL.NS,141.0,0.05,0.049884
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SONACOMS.NS,75.0,0.05,0.049458
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NATIONALUM.NS,161.0,0.05,0.049893
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,27.0,0.05,0.048263
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),WELCORP.NS,25.0,0.05,0.048507
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SHRIRAMFIN.NS,56.0,0.05,0.049797
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SJS.NS,24.0,0.05,0.048326
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,117.0,0.05,0.049918
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TORNTPHARM.NS,12.0,0.05,0.04829
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,18.0,0.05,0.048937
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ADANIPOWER.NS,306.0,0.05,0.050014
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IDEA.NS,4235.0,0.05,0.050029
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,3.0,0.05,0.043
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,162.0,0.05,0.049751
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),CUMMINSIND.NS,12.0,0.05,0.049455
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,1.0,0.05,0.027065
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDALCO.NS,60.0,0.05,0.049664
+2026-09-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),GESHIP.NS,47.0,0.05,0.04962
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,HFCL.NS,453.0,0.095238,0.095346
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,FEDERALBNK.NS,309.0,0.090476,0.090414
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,234.0,0.085714,0.085537
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,SONACOMS.NS,118.0,0.080952,0.080399
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,238.0,0.07619,0.076205
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,38.0,0.071429,0.070183
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,WELCORP.NS,33.0,0.066667,0.066156
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,SHRIRAMFIN.NS,67.0,0.061905,0.061558
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,SJS.NS,27.0,0.057143,0.056173
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,HINDCOPPER.NS,118.0,0.052381,0.052017
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ARVIND.NS,103.0,0.047619,0.047466
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,TORNTPHARM.NS,10.0,0.042857,0.041579
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,CHENNPETRO.NS,33.0,0.038095,0.038072
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,11.0,0.033333,0.0309
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,ADANIPOWER.NS,169.0,0.028571,0.02854
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,IDEA.NS,1953.0,0.02381,0.023838
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,NYKAA.NS,65.0,0.019048,0.018864
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,MOTHERSON.NS,100.0,0.014286,0.014212
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,32.0,0.009524,0.009338
+2026-09-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,0.0,0.004762,0.0
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HFCL.NS,250.0,0.05,0.049906
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),WELCORP.NS,22.0,0.05,0.049892
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),FEDERALBNK.NS,188.0,0.05,0.049767
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SONACOMS.NS,72.0,0.05,0.049925
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),MCX.NS,18.0,0.05,0.049745
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),BHEL.NS,144.0,0.05,0.049895
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),DIVISLAB.NS,6.0,0.05,0.046614
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ANANDRATHI.NS,28.0,0.05,0.049149
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),APARINDS.NS,3.0,0.05,0.043675
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SHRIRAMFIN.NS,61.0,0.05,0.049731
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),NATIONALUM.NS,178.0,0.05,0.049937
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TITAN.NS,13.0,0.05,0.049806
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),ARVIND.NS,111.0,0.05,0.049974
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),TORNTPHARM.NS,12.0,0.05,0.048237
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),POWERINDIA.NS,1.0,0.05,0.025701
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),SJS.NS,26.0,0.05,0.048991
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),IDEA.NS,4613.0,0.05,0.050028
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),RBLBANK.NS,147.0,0.05,0.049864
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDCOPPER.NS,127.0,0.05,0.049971
+2026-10-01,Strategy 2 - Top-X Equal-Weight Momentum (Buffer),HINDALCO.NS,63.0,0.05,0.04933
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,HFCL.NS,455.0,0.095238,0.095248
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,WELCORP.NS,38.0,0.090476,0.09037
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,FEDERALBNK.NS,309.0,0.085714,0.085778
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,SONACOMS.NS,111.0,0.080952,0.080713
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,MCX.NS,26.0,0.07619,0.075349
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,BHEL.NS,196.0,0.071429,0.071217
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,DIVISLAB.NS,8.0,0.066667,0.065176
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,ANANDRATHI.NS,33.0,0.061905,0.060744
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,APARINDS.NS,3.0,0.057143,0.0458
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,SHRIRAMFIN.NS,61.0,0.052381,0.05215
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,NATIONALUM.NS,162.0,0.047619,0.04766
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,TITAN.NS,10.0,0.042857,0.040177
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,ARVIND.NS,80.0,0.038095,0.037769
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,TORNTPHARM.NS,7.0,0.033333,0.029507
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,KARURVYSYA.NS,100.0,0.028571,0.028427
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,CHENNPETRO.NS,18.0,0.02381,0.022636
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,POWERINDIA.NS,0.0,0.019048,0.0
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,SJS.NS,7.0,0.014286,0.013832
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,NYKAA.NS,34.0,0.009524,0.009465
+2026-10-01,Strategy 3 - Top-X Rank-Weighted Momentum,BAJAJ-AUTO.NS,0.0,0.004762,0.0
